@@ -1,4 +1,53 @@
-.welcome-card ion-img {
-  max-height: 35vh;
-  overflow: hidden;
+#back {
+ 	background: url('lhasabg.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position: center center;
+	height:100%;
 }
+
+@keyframes example {
+
+    to  { transform: rotateY(180deg);animation-timing-function: ease-out; }
+}
+#animation{
+  animation-name: example;
+  animation-duration: 2s;
+}
+.animation{
+  animation-name: example;
+  animation-duration: 2s;
+}
+button {
+	background-color: yellow;
+}
+
+.nadslovo {
+	padding:0 0 0 0;
+	height:50%;
+	transition:5s linear !important;
+}	
+
+.slovo {
+  width:80%;
+  border: blueviolet 4px solid;
+  border-radius:50%;
+  margin:auto;
+  padding:0 0 0 0;
+  text-align: center;
+  vertical-align:  text-top;
+  font-size: 8em;
+  color:yellow;
+}
+#Word2 {
+  width:70%;
+  border: blueviolet 4px solid;
+  border-radius:50%;
+  margin:auto;
+  padding:0 0 0 0;
+  text-align: center;
+  vertical-align:  text-top;
+  font-size: 2em;
+  color:white;
+}	 
+

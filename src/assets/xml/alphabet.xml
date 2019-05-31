@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ALPHABET>
+	<INFO>
+		<SUBJECT>Empty </SUBJECT>
+		<AUTHOR>dramatik</AUTHOR>
+		<EMAIL>sprt@dramatik.cz  </EMAIL>
+		<VERSION>1.00  </VERSION>
+	</INFO>
+	<ORIGIN>
+		<PODNIK> Unknown  </PODNIK>
+		<DATE>25.12.2013  </DATE>
+		<SESTAVAN typses="unknown">1 </SESTAVAN>
+		<SESTAVATX>Lekce z WWW apk</SESTAVATX>
+		<ORIGTIME>695559204 </ORIGTIME>
+		<PARAMS>0 </PARAMS>
+	</ORIGIN>
+	<HEADER>
+		<NAZEV>Test v.1.</NAZEV>
+		<KEY>00000000000000000000001</KEY>
+		<PATHIMG>//server/data/img</PATHIMG>
+		<PATHAUDIO>//server/data/audio</PATHAUDIO>
+	</HEADER>
+	<!-- 
+	     w=vyslovnost
+	     s=sound
+	     tc=vyslovnost
+	     
+	     name  = nazev bloku - i pro hledani
+	     namec = nazev bloku cesky pro nadpisy a menu
+	     -->
+	<RECS name="Consonants" namec="Souhlásky"> <!-- 30 souhlasek -->
+		<R w="KA"   s="ka"   tc="KA"   >&#x0F40;</R>
+		<R w="KHA"  s="kha"  tc="KA"   >&#x0F41;</R>
+		<R w="GA"   s="ga"   tc="KA"   >&#x0F42;</R>
+		<R w="NGA"  s="nga"  tc="KA"   >&#x0F44;</R>
+                           
+		<R w="CA"   s="ca"   tc="KA"    >&#x0F45;</R>
+		<R w="CHA"  s="cha"  tc="KA"    >&#x0F46;</R>
+		<R w="JA"   s="ja"   tc="KA"    >&#x0F47;</R>
+		<R w="NYA"  s="nya"  tc="KA"    >&#x0F49;</R>
+                           
+		<R w="TA"   s="ta"   tc="KA"    >&#x0F4F;</R>
+		<R w="THA"  s="tha"  tc="KA"    >&#x0F50;</R>
+		<R w="DA"   s="da"   tc="KA"    >&#x0F51;</R>
+		<R w="NA"   s="na"   tc="KA"    >&#x0F53;</R>
+                           
+		<R w="PA"   s="pa"   tc="KA"    >&#x0F54;</R>
+		<R w="PHA"  s="pha"  tc="KA"    >&#x0F55;</R>
+		<R w="BA"   s="ba"   tc="KA"    >&#x0F56;</R>
+		<R w="MA"   s="ma"   tc="KA"    >&#x0F58;</R>
+                           
+		<R w="TSA"  s="tsa"  tc="KA"    >&#x0F59;</R>
+		<R w="TSHA" s="tsha" tc="KA"    >&#x0F5A;</R>
+		<R w="SZA"  s="sza"  tc="KA"    >&#x0F5B;</R>
+		<R w="WA"   s="sa"   tc="KA"    >&#x0F5D;</R>
+                           
+		<R w="ZHA"  s="zha"  tc="KA"    >&#x0F5E;</R>
+		<R w="ZA"   s="za"   tc="KA"    >&#x0F5F;</R>
+		<R w="xA"   s="xa"   tc="KA"    >&#x0F60;</R>
+		<R w="YA"   s="ya"   tc="KA"    >&#x0F61;</R>
+                           
+		<R w="RA"   s="ra"   tc="KA"    >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"    >&#x0F63;</R>
+		<R w="SHA"  s="sha"  tc="KA"    >&#x0F64;</R>
+		<R w="SA"   s="sa"   tc="KA"    >&#x0F66;</R>
+                           
+		<R w="HA"   s="ha"   tc="KA"    >&#x0F67;</R>
+		<R w="A"    s="a"    tc="KA"    >&#x0F68;</R>
+	</RECS>
+	
+	<RECS name="Vowels" namec="Samohlásky?" > <!-- 4 samohlasky  -->
+      <Popis>		V tibetštině jsou 4 samohlásky – i, u, e, o. </Popis>
+		<R w="i-"   s="i-i"   tc="i"     >&#x0F68;&#x0F72;</R>
+		<R w="e-"   s="e-e"   tc="e"     >&#x0F68;&#x0F7A;</R>
+		<R w="u-"   s="u-u"   tc="u"     >&#x0F68;&#x0F74;</R>
+		<R w="o-"   s="o-o"   tc="o"     >&#x0F68;&#x0F7C;</R>
+	</RECS>
+	
+	<!-- consonants with the four vowel signs -->
+	<RECS name="Vowel-signs" namec="Samohlásky"> <!--    -->
+	  <Tnadpis> consonants with the four vowel signs</Tnadpis>
+<Tseznam></Tseznam>
+<Cseznam></Cseznam>
+		<R w="ki"    s="i"   tc="i"     >ཀི </R>
+		<R w="khu"   s="e"   tc="e"     >ཁུ </R>
+		<R w="ge"    s="u"   tc="u"     >གེ </R>
+		<R w="ngo"   s="o"   tc="o"     >ངོ </R>
+		<R w="ci"    s="i"   tc="i"     >ཅི </R>
+		<R w="chu"   s="e"   tc="e"     >ཆུ </R>
+		<R w="je"    s="u"   tc="u"     >ཇེ </R>
+		<R w="nyo"   s="o"   tc="o"     >ཉོ </R>
+		<R w="ti"    s="i"   tc="i"     >ཏི </R>
+		<R w="thu"   s="e"   tc="e"     >ཐུ </R>
+		<R w="de"    s="u"   tc="u"     >དེ </R>
+		<R w="no"    s="o"   tc="o"     >ནོ </R>
+		<R w="pu"    s="i"   tc="i"     >པི </R>
+		<R w="phu"   s="e"   tc="e"     >ཕུ </R>
+		<R w="be"    s="u"   tc="u"     >བེ </R>
+		<R w="mo"    s="o"   tc="o"     >མོ </R>
+		<R w="tsi"   s="i"   tc="i"     >ཙི </R>
+		<R w="tshu"  s="e"   tc="e"     >ཚུ </R>
+		<R w="dze"   s="u"   tc="u"     >ཛེ </R>
+		<R w="wo"    s="o"   tc="o"     >ཝོ </R>
+		<R w="zhi"   s="i"   tc="i"     >ཞི </R>
+		<R w="zu"    s="e"   tc="e"     >ཟུ </R>
+		<R w="'e"    s="u"   tc="u"     >འེ </R>
+		<R w="yo"    s="o"   tc="o"     >ཡོ </R>
+		<R w="hi"    s="o"   tc="o"     >ཧི </R>
+		<R w="u"     s="o"   tc="o"     >ཨུ </R>
+
+		<R w="hi"    s="o"   tc="o"     >ཧ  </R>
+		<R w="u"     s="o"   tc="o"     >ཨུ </R>
+		
+		
+	</RECS>
+
+	
+	
+	
+	
+	<RECS name="Nadepsaná" namec="Nadepsaná" > <!-- 3 druhy nadepsanych pismen  -->
+		<R w="RA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="SA"   s="sa"   tc="KA"     >&#x0F64;</R>
+	</RECS>
+	
+	<RECS name="Nadepsaná RA" namec="Nadepsaná RA" > <!-- 12 souhlasek nadepsanych pismenem ra  -->
+	  <Tnadpis>ར་མགོ་བཅུ་གཉིས་ནི </Tnadpis>
+		<R w="ka"   s="ka"   tc="KA"     >རྐ</R>
+		<R w="ga"   s="ga"   tc="KA"     >རྒ</R>
+		<R w="nga"   s="nga"   tc="KA"    >རྔ</R>
+		<R w="dža"   s=""   tc="KA"    >རྗ</R>
+		<R w="ňa"   s=""   tc="KA"     >རྙ</R>
+		<R w="ta"   s="ta"   tc="KA"     >རྟ</R>
+		<R w="da"   s="da"   tc="KA"     >རྡ</R>
+		<R w="na"   s="na"   tc="KA"     >རྣ</R>
+		<R w="ba"   s="ba"   tc="KA"     >རྦ</R>
+		<R w="ma"   s="ma"   tc="KA"     >རྨ</R>
+		<R w="ca"   s=""   tc="KA"     >རྩ</R>
+		<R w="dza"  s=""   tc="KA"    >རྫ</R>
+	</RECS>
+	<RECS name="Nadepsaná LA" namec="Nadepsaná LA" > <!-- 10 souhlasek nadepsanych pismenem LA  -->
+		<R w="ka"   s="ka"   tc="KA"     >&#x0F63;&#x0F90;</R>   <!-- 2019-05-16  zkontrolovat !!! -->
+		<R w="ga"   s="ga"   tc="KA"     >&#x0F63;&#x0F91;</R>
+		<R w="nga"  s="nga"  tc="KA"     >&#x0F63;&#x0F94;</R>
+		<R w="ca"   s="ca"   tc="KA"     >&#x0F63;&#x0F95;</R>
+		<R w="dza"  s="dza"  tc="KA"     >&#x0F63;&#x0F97;</R>
+		<R w="ta"   s="ta"   tc="KA"     >&#x0F63;&#x0F9F;</R>
+		<R w="da"   s="da"   tc="KA"     >&#x0F63;&#x0FA1;</R>
+		<R w="pa"   s="pa"   tc="KA"     >&#x0F63;&#x0FA4;</R>
+		<R w="ba"   s="ba"   tc="KA"     >&#x0F63;&#x0FA6;</R>
+		<R w="lha"  s="lha"  tc="KA"     >&#x0F63;&#x0FB7;</R>
+	</RECS>
+	
+	<RECS name="NadepsanaSA" namec="Nadepsaná SA" > <!-- 11 souhlasek nadepsanych pismenem SA  -->
+		<R w="KA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="RA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="KA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="RA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="KA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="RA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="KA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="RA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"     >&#x0F63;</R>
+	</RECS>
+
+       	<!-- podepsana  -->
+	<RECS name="Podepsana" namec="Podepsan" > <!-- 4 podepsana pismena : ja ra la wa  -->
+		<R w="JA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="RA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="WA"   s="ka"   tc="KA"     >&#x0F40;</R>
+	</RECS>
+ 
+	<RECS name="PodepsanaJA" namec="PodepsanaJA" > <!-- 8 souhlasek podepsanych pismenem ja  -->
+		<R w="KJA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="KHJA"  s="ra"  tc="KA"      >&#x0F62;</R>
+		<R w="GJA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="ČA"    s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="ČHA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="DŽA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="ŇA"    s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="HJA"   s="ra"   tc="KA"     >&#x0F62;</R>
+	</RECS>
+	<RECS name="Podepsaná RA" namec="Podepsaná RA" > <!-- 13 souhlasek podepsanych pismenem ra  -->
+		<R w="TA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="THA"   s="ra"   tc="KA"    >&#x0F62;</R>
+		<R w="DA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="TA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="THA"   s="ra"   tc="KA"    >&#x0F62;</R>
+		<R w="DA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="NA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="TA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="THA"   s="ka"   tc="KA"    >&#x0F40;</R>
+		<R w="DA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="SA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="KA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="ŠA"   s="ra"   tc="KA"     >&#x0F62;</R>
+	</RECS>
+	<RECS name="Podepsaná LA" namec="Podepsaná LA" > <!-- 6 souhlasek podepsanych pismenem LA  -->
+		<R w="LA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="LA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="LA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="LA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="DA"   s="la"   tc="KA"     >&#x0F63;</R>
+	</RECS>
+	<RECS name="Podepsaná WA" namec="Podepsaná WA" > <!-- 13 souhlasek podepsanych pismenem WA  -->
+		<R w="KA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="KHA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="GA"    s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="ŇA"    s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="DA"    s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="CA"    s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="CCHA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="ŽA"    s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="ZA"    s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="RA"    s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="LA"    s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="ŠA"    s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="HA"    s="ra"   tc="KA"     >&#x0F62;</R>
+	</RECS>
+	<RECS name="Sanskrt" namec="Sanskrt" > <!-- 6 obracených pismen   -->
+		<R w="TA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="THA"  s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="DA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="NA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="KA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="KJA"  s="la"   tc="KA"     >&#x0F63;</R>
+	</RECS>
+	<RECS name="Aspirovaná" namec="Aspirovaná" > <!-- 5 silnych souhlasek   -->
+		<R w="GHA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="DHA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="BHA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="DZHA"  s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="DHA"   s="ra"   tc="KA"     >&#x0F62;</R>
+	</RECS>
+
+	<!-- Predpony pet -->
+	<RECS name="Předpony"  namec="Předpony" > <!-- 5 predpon pismen   -->
+		<R w="TA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="THA"  s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="DA"   s="la"   tc="KA"     >&#x0F63;</R>
+		<R w="NA"   s="ka"   tc="KA"     >&#x0F40;</R>
+		<R w="KA"   s="ra"   tc="KA"     >&#x0F62;</R>
+		<R w="KJA"  s="la"   tc="KA"     >&#x0F63;</R>
+	</RECS>
+	
+	
+	
+	
+        <!-- CISLICE -->	
+	<RECS name="Numerals" namec="Číslice"> <!-- cislice -->
+		<R w="0"   s=""   tc="?"       >&#x0F20;</R>
+		<R w="1"   s=""   tc="chig"    >&#x0F21;</R>
+		<R w="2"   s=""   tc="nyi"     >&#x0F22;</R>
+		<R w="3"   s=""   tc="soom"    >&#x0F23;</R>
+		<R w="4"   s=""   tc="shi"     >&#x0F24;</R>
+		<R w="5"   s=""   tc="nga"     >&#x0F25;</R>
+		<R w="6"   s=""   tc="doog"    >&#x0F26;</R>
+		<R w="7"   s=""   tc="dun"     >&#x0F27;</R>
+		<R w="8"   s=""   tc="gye"     >&#x0F28;</R>
+		<R w="9"   s=""   tc="gu"      >&#x0F29;</R>
+		<R w="10"   s=""  tc="chu"     >&#x0F21;&#x0F20;</R>
+		<R w="11"   s=""  tc="chu-chig">&#x0F21;&#x0F21;</R>
+		<R w="12"   s=""  tc="chu-nyi" >&#x0F21;&#x0F22;</R>
+		<R w="13"   s=""  tc="chu-soom">&#x0F21;&#x0F23;</R>
+		<R w="14"   s=""  tc="chu-shi" >&#x0F21;&#x0F24;</R>
+		<R w="15"   s=""  tc="chu-nga" >&#x0F21;&#x0F25;</R>
+		<R w="16"   s=""  tc="chu-doog">&#x0F21;&#x0F26;</R>
+		<R w="17"   s=""  tc="chu-duhn">&#x0F21;&#x0F27;</R>
+		<R w="18"   s=""  tc="chu-gye" >&#x0F21;&#x0F28;</R>
+		<R w="19"   s=""  tc="chu-gu"  >&#x0F21;&#x0F29;</R>
+		<R w="20"   s=""  tc="nyi-shu" >&#x0F21;&#x0F29;</R>
+	</RECS>
+	
+		<!-- Vsechny UTF8 znaky v poradi podle kodu -->
+<RECS name="All" namec="Vsechny" > <!--  -->
+<R w="SYLLABLE OM" s="yy" tc="xx">&#xF00;</R>
+<R w="MARK GTER YIG MGO TRUNCATED A" s="yy" tc="xx">&#xF01;</R>
+<R w="MARK GTER YIG MGO -UM RNAM BCAD MA" s="yy" tc="xx">&#xF02;</R>
+<R w="MARK GTER YIG MGO -UM GTER TSHEG MA" s="yy" tc="xx">&#xF03;</R>
+<R w="MARK INITIAL YIG MGO MDUN MA" s="yy" tc="xx">&#xF04;</R>
+<R w="MARK CLOSING YIG MGO SGAB MA" s="yy" tc="xx">&#xF05;</R>
+<R w="MARK CARET YIG MGO PHUR SHAD MA" s="yy" tc="xx">&#xF06;</R>
+<R w="MARK YIG MGO TSHEG SHAD MA" s="yy" tc="xx">&#xF07;</R>
+<R w="MARK SBRUL SHAD" s="yy" tc="xx">&#xF08;</R>
+<R w="MARK BSKUR YIG MGO" s="yy" tc="xx">&#xF09;</R>
+<R w="MARK BKA- SHOG YIG MGO" s="yy" tc="xx">&#xF0A;</R>
+<R w="MARK INTERSYLLABIC TSHEG" s="yy" tc="xx">&#xF0B;</R>
+<R w="MARK DELIMITER TSHEG BSTAR" s="yy" tc="xx">&#xF0C;</R>
+<R w="MARK SHAD" s="yy" tc="xx">&#xF0D;</R>
+<R w="MARK NYIS SHAD" s="yy" tc="xx">&#xF0E;</R>
+<R w="MARK TSHEG SHAD" s="yy" tc="xx">&#xF0F;</R>
+<R w="MARK NYIS TSHEG SHAD" s="yy" tc="xx">&#xF10;</R>
+<R w="MARK RIN CHEN SPUNGS SHAD" s="yy" tc="xx">&#xF11;</R>
+<R w="MARK RGYA GRAM SHAD" s="yy" tc="xx">&#xF12;</R>
+<R w="MARK CARET -DZUD RTAGS ME LONG CAN" s="yy" tc="xx">&#xF13;</R>
+<R w="MARK GTER TSHEG" s="yy" tc="xx">&#xF14;</R>
+<R w="LOGOTYPE SIGN CHAD RTAGS" s="yy" tc="xx">&#xF15;</R>
+<R w="LOGOTYPE SIGN LHAG RTAGS" s="yy" tc="xx">&#xF16;</R>
+<R w="ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS" s="yy" tc="xx">&#xF17;</R>
+<R w="ASTROLOGICAL SIGN -KHYUD PA" s="yy" tc="xx">&#xF18;</R>
+<R w="ASTROLOGICAL SIGN SDONG TSHUGS" s="yy" tc="xx">&#xF19;</R>
+<R w="SIGN RDEL DKAR GCIG" s="yy" tc="xx">&#xF1A;</R>
+<R w="SIGN RDEL DKAR GNYIS" s="yy" tc="xx">&#xF1B;</R>
+<R w="SIGN RDEL DKAR GSUM" s="yy" tc="xx">&#xF1C;</R>
+<R w="SIGN RDEL NAG GCIG" s="yy" tc="xx">&#xF1D;</R>
+<R w="SIGN RDEL NAG GNYIS" s="yy" tc="xx">&#xF1E;</R>
+<R w="SIGN RDEL DKAR RDEL NAG" s="yy" tc="xx">&#xF1F;</R>
+<R w="DIGIT ZERO" s="yy" tc="xx">&#xF20;</R>
+<R w="DIGIT ONE" s="yy" tc="xx">&#xF21;</R>
+<R w="DIGIT TWO" s="yy" tc="xx">&#xF22;</R>
+<R w="DIGIT THREE" s="yy" tc="xx">&#xF23;</R>
+<R w="DIGIT FOUR" s="yy" tc="xx">&#xF24;</R>
+<R w="DIGIT FIVE" s="yy" tc="xx">&#xF25;</R>
+<R w="DIGIT SIX" s="yy" tc="xx">&#xF26;</R>
+<R w="DIGIT SEVEN" s="yy" tc="xx">&#xF27;</R>
+<R w="DIGIT EIGHT" s="yy" tc="xx">&#xF28;</R>
+<R w="DIGIT NINE" s="yy" tc="xx">&#xF29;</R>
+<R w="DIGIT HALF ONE" s="yy" tc="xx">&#xF2A;</R>
+<R w="DIGIT HALF TWO" s="yy" tc="xx">&#xF2B;</R>
+<R w="DIGIT HALF THREE" s="yy" tc="xx">&#xF2C;</R>
+<R w="DIGIT HALF FOUR" s="yy" tc="xx">&#xF2D;</R>
+<R w="DIGIT HALF FIVE" s="yy" tc="xx">&#xF2E;</R>
+<R w="DIGIT HALF SIX" s="yy" tc="xx">&#xF2F;</R>
+<R w="DIGIT HALF SEVEN" s="yy" tc="xx">&#xF30;</R>
+<R w="DIGIT HALF EIGHT" s="yy" tc="xx">&#xF31;</R>
+<R w="DIGIT HALF NINE" s="yy" tc="xx">&#xF32;</R>
+<R w="DIGIT HALF ZERO" s="yy" tc="xx">&#xF33;</R>
+<R w="MARK BSDUS RTAGS" s="yy" tc="xx">&#xF34;</R>
+<R w="MARK NGAS BZUNG NYI ZLA" s="yy" tc="xx">&#xF35;</R>
+<R w="MARK CARET -DZUD RTAGS BZHI MIG CAN" s="yy" tc="xx">&#xF36;</R>
+<R w="MARK NGAS BZUNG SGOR RTAGS" s="yy" tc="xx">&#xF37;</R>
+<R w="MARK CHE MGO" s="yy" tc="xx">&#xF38;</R>
+<R w="MARK TSA -PHRU" s="yy" tc="xx">&#xF39;</R>
+<R w="MARK GUG RTAGS GYON" s="yy" tc="xx">&#xF3A;</R>
+<R w="MARK GUG RTAGS GYAS" s="yy" tc="xx">&#xF3B;</R>
+<R w="MARK ANG KHANG GYON" s="yy" tc="xx">&#xF3C;</R>
+<R w="MARK ANG KHANG GYAS" s="yy" tc="xx">&#xF3D;</R>
+<R w="SIGN YAR TSHES" s="yy" tc="xx">&#xF3E;</R>
+<R w="SIGN MAR TSHES" s="yy" tc="xx">&#xF3F;</R>
+<R w="LETTER KA" s="yy" tc="xx">&#xF40;</R>
+<R w="LETTER KHA" s="yy" tc="xx">&#xF41;</R>
+<R w="LETTER GA" s="yy" tc="xx">&#xF42;</R>
+<R w="LETTER GHA" s="yy" tc="xx">&#xF43;</R>
+<R w="LETTER NGA" s="yy" tc="xx">&#xF44;</R>
+<R w="LETTER CA" s="yy" tc="xx">&#xF45;</R>
+<R w="LETTER CHA" s="yy" tc="xx">&#xF46;</R>
+<R w="LETTER JA" s="yy" tc="xx">&#xF47;</R>
+
+<R w="LETTER NYA" s="yy" tc="xx">&#xF49;</R>
+<R w="LETTER TTA" s="yy" tc="xx">&#xF4A;</R>
+<R w="LETTER TTHA" s="yy" tc="xx">&#xF4B;</R>
+<R w="LETTER DDA" s="yy" tc="xx">&#xF4C;</R>
+<R w="LETTER DDHA" s="yy" tc="xx">&#xF4D;</R>
+<R w="LETTER NNA" s="yy" tc="xx">&#xF4E;</R>
+<R w="LETTER TA" s="yy" tc="xx">&#xF4F;</R>
+<R w="LETTER THA" s="yy" tc="xx">&#xF50;</R>
+<R w="LETTER DA" s="yy" tc="xx">&#xF51;</R>
+<R w="LETTER DHA" s="yy" tc="xx">&#xF52;</R>
+<R w="LETTER NA" s="yy" tc="xx">&#xF53;</R>
+<R w="LETTER PA" s="yy" tc="xx">&#xF54;</R>
+<R w="LETTER PHA" s="yy" tc="xx">&#xF55;</R>
+<R w="LETTER BA" s="yy" tc="xx">&#xF56;</R>
+<R w="LETTER BHA" s="yy" tc="xx">&#xF57;</R>
+<R w="LETTER MA" s="yy" tc="xx">&#xF58;</R>
+<R w="LETTER TSA" s="yy" tc="xx">&#xF59;</R>
+<R w="LETTER TSHA" s="yy" tc="xx">&#xF5A;</R>
+<R w="LETTER DZA" s="yy" tc="xx">&#xF5B;</R>
+<R w="LETTER DZHA" s="yy" tc="xx">&#xF5C;</R>
+<R w="LETTER WA" s="yy" tc="xx">&#xF5D;</R>
+<R w="LETTER ZHA" s="yy" tc="xx">&#xF5E;</R>
+<R w="LETTER ZA" s="yy" tc="xx">&#xF5F;</R>
+<R w="LETTER -A" s="yy" tc="xx">&#xF60;</R>
+<R w="LETTER YA" s="yy" tc="xx">&#xF61;</R>
+<R w="LETTER RA" s="yy" tc="xx">&#xF62;</R>
+<R w="LETTER LA" s="yy" tc="xx">&#xF63;</R>
+<R w="LETTER SHA" s="yy" tc="xx">&#xF64;</R>
+<R w="LETTER SSA" s="yy" tc="xx">&#xF65;</R>
+<R w="LETTER SA" s="yy" tc="xx">&#xF66;</R>
+<R w="LETTER HA" s="yy" tc="xx">&#xF67;</R>
+<R w="LETTER A" s="yy" tc="xx">&#xF68;</R>
+<R w="LETTER KSSA" s="yy" tc="xx">&#xF69;</R>
+<R w="LETTER FIXED-FORM RA" s="yy" tc="xx">&#xF6A;</R>
+<R w="LETTER KKA" s="yy" tc="xx">&#xF6B;</R>
+<R w="LETTER RRA" s="yy" tc="xx">&#xF6C;</R>
+ 
+<R w="VOWEL SIGN AA" s="yy" tc="xx">&#xF71;</R>
+<R w="VOWEL SIGN I" s="yy" tc="xx">&#xF72;</R>
+<R w="VOWEL SIGN II" s="yy" tc="xx">&#xF73;</R>
+<R w="VOWEL SIGN U" s="yy" tc="xx">&#xF74;</R>
+<R w="VOWEL SIGN UU" s="yy" tc="xx">&#xF75;</R>
+<R w="VOWEL SIGN VOCALIC R" s="yy" tc="xx">&#xF76;</R>
+<R w="VOWEL SIGN VOCALIC RR" s="yy" tc="xx">&#xF77;</R>
+<R w="VOWEL SIGN VOCALIC L" s="yy" tc="xx">&#xF78;</R>
+<R w="VOWEL SIGN VOCALIC LL" s="yy" tc="xx">&#xF79;</R>
+<R w="VOWEL SIGN E" s="yy" tc="xx">&#xF7A;</R>
+<R w="VOWEL SIGN EE" s="yy" tc="xx">&#xF7B;</R>
+<R w="VOWEL SIGN O" s="yy" tc="xx">&#xF7C;</R>
+<R w="VOWEL SIGN OO" s="yy" tc="xx">&#xF7D;</R>
+<R w="SIGN RJES SU NGA RO" s="yy" tc="xx">&#xF7E;</R>
+<R w="SIGN RNAM BCAD" s="yy" tc="xx">&#xF7F;</R>
+<R w="VOWEL SIGN REVERSED I" s="yy" tc="xx">&#xF80;</R>
+<R w="VOWEL SIGN REVERSED II" s="yy" tc="xx">&#xF81;</R>
+<R w="SIGN NYI ZLA NAA DA" s="yy" tc="xx">&#xF82;</R>
+<R w="SIGN SNA LDAN" s="yy" tc="xx">&#xF83;</R>
+<R w="MARK HALANTA" s="yy" tc="xx">&#xF84;</R>
+<R w="MARK PALUTA" s="yy" tc="xx">&#xF85;</R>
+<R w="SIGN LCI RTAGS" s="yy" tc="xx">&#xF86;</R>
+<R w="SIGN YANG RTAGS" s="yy" tc="xx">&#xF87;</R>
+<R w="SIGN LCE TSA CAN" s="yy" tc="xx">&#xF88;</R>
+<R w="SIGN MCHU CAN" s="yy" tc="xx">&#xF89;</R>
+<R w="SIGN GRU CAN RGYINGS" s="yy" tc="xx">&#xF8A;</R>
+<R w="SIGN GRU MED RGYINGS" s="yy" tc="xx">&#xF8B;</R>
+<R w="SIGN INVERTED MCHU CAN" s="yy" tc="xx">&#xF8C;</R>
+<R w="SUBJOINED SIGN LCE TSA CAN" s="yy" tc="xx">&#xF8D;</R>
+<R w="SUBJOINED SIGN MCHU CAN" s="yy" tc="xx">&#xF8E;</R>
+<R w="SUBJOINED SIGN INVERTED MCHU CAN" s="yy" tc="xx">&#xF8F;</R>
+<R w="SUBJOINED LETTER KA" s="yy" tc="xx">&#xF90;</R>
+<R w="SUBJOINED LETTER KHA" s="yy" tc="xx">&#xF91;</R>
+<R w="SUBJOINED LETTER GA" s="yy" tc="xx">&#xF92;</R>
+<R w="SUBJOINED LETTER GHA" s="yy" tc="xx">&#xF93;</R>
+<R w="SUBJOINED LETTER NGA" s="yy" tc="xx">&#xF94;</R>
+<R w="SUBJOINED LETTER CA" s="yy" tc="xx">&#xF95;</R>
+<R w="SUBJOINED LETTER CHA" s="yy" tc="xx">&#xF96;</R>
+<R w="SUBJOINED LETTER JA" s="yy" tc="xx">&#xF97;</R>
+ 
+<R w="SUBJOINED LETTER NYA" s="yy" tc="xx">&#xF99;</R>
+<R w="SUBJOINED LETTER TTA" s="yy" tc="xx">&#xF9A;</R>
+<R w="SUBJOINED LETTER TTHA" s="yy" tc="xx">&#xF9B;</R>
+<R w="SUBJOINED LETTER DDA" s="yy" tc="xx">&#xF9C;</R>
+<R w="SUBJOINED LETTER DDHA" s="yy" tc="xx">&#xF9D;</R>
+<R w="SUBJOINED LETTER NNA" s="yy" tc="xx">&#xF9E;</R>
+<R w="SUBJOINED LETTER TA" s="yy" tc="xx">&#xF9F;</R>
+<R w="SUBJOINED LETTER THA" s="yy" tc="xx">&#xFA0;</R>
+<R w="SUBJOINED LETTER DA" s="yy" tc="xx">&#xFA1;</R>
+<R w="SUBJOINED LETTER DHA" s="yy" tc="xx">&#xFA2;</R>
+<R w="SUBJOINED LETTER NA" s="yy" tc="xx">&#xFA3;</R>
+<R w="SUBJOINED LETTER PA" s="yy" tc="xx">&#xFA4;</R>
+<R w="SUBJOINED LETTER PHA" s="yy" tc="xx">&#xFA5;</R>
+<R w="SUBJOINED LETTER BA" s="yy" tc="xx">&#xFA6;</R>
+<R w="SUBJOINED LETTER BHA" s="yy" tc="xx">&#xFA7;</R>
+<R w="SUBJOINED LETTER MA" s="yy" tc="xx">&#xFA8;</R>
+<R w="SUBJOINED LETTER TSA" s="yy" tc="xx">&#xFA9;</R>
+<R w="SUBJOINED LETTER TSHA" s="yy" tc="xx">&#xFAA;</R>
+<R w="SUBJOINED LETTER DZA" s="yy" tc="xx">&#xFAB;</R>
+<R w="SUBJOINED LETTER DZHA" s="yy" tc="xx">&#xFAC;</R>
+<R w="SUBJOINED LETTER WA" s="yy" tc="xx">&#xFAD;</R>
+<R w="SUBJOINED LETTER ZHA" s="yy" tc="xx">&#xFAE;</R>
+<R w="SUBJOINED LETTER ZA" s="yy" tc="xx">&#xFAF;</R>
+<R w="SUBJOINED LETTER -A" s="yy" tc="xx">&#xFB0;</R>
+<R w="SUBJOINED LETTER YA" s="yy" tc="xx">&#xFB1;</R>
+<R w="SUBJOINED LETTER RA" s="yy" tc="xx">&#xFB2;</R>
+<R w="SUBJOINED LETTER LA" s="yy" tc="xx">&#xFB3;</R>
+<R w="SUBJOINED LETTER SHA" s="yy" tc="xx">&#xFB4;</R>
+<R w="SUBJOINED LETTER SSA" s="yy" tc="xx">&#xFB5;</R>
+<R w="SUBJOINED LETTER SA" s="yy" tc="xx">&#xFB6;</R>
+<R w="SUBJOINED LETTER HA" s="yy" tc="xx">&#xFB7;</R>
+<R w="SUBJOINED LETTER A" s="yy" tc="xx">&#xFB8;</R>
+<R w="SUBJOINED LETTER KSSA" s="yy" tc="xx">&#xFB9;</R>
+<R w="SUBJOINED LETTER FIXED-FORM WA" s="yy" tc="xx">&#xFBA;</R>
+<R w="SUBJOINED LETTER FIXED-FORM YA" s="yy" tc="xx">&#xFBB;</R>
+<R w="SUBJOINED LETTER FIXED-FORM RA" s="yy" tc="xx">&#xFBC;</R>
+ 
+<R w="KU RU KHA" s="yy" tc="xx">&#xFBE;</R>
+<R w="KU RU KHA BZHI MIG CAN" s="yy" tc="xx">&#xFBF;</R>
+<R w="CANTILLATION SIGN HEAVY BEAT" s="yy" tc="xx">&#xFC0;</R>
+<R w="CANTILLATION SIGN LIGHT BEAT" s="yy" tc="xx">&#xFC1;</R>
+<R w="CANTILLATION SIGN CANG TE-U" s="yy" tc="xx">&#xFC2;</R>
+<R w="CANTILLATION SIGN SBUB -CHAL" s="yy" tc="xx">&#xFC3;</R>
+<R w="SYMBOL DRIL BU" s="yy" tc="xx">&#xFC4;</R>
+<R w="SYMBOL RDO RJE" s="yy" tc="xx">&#xFC5;</R>
+<R w="SYMBOL PADMA GDAN" s="yy" tc="xx">&#xFC6;</R>
+<R w="SYMBOL RDO RJE RGYA GRAM" s="yy" tc="xx">&#xFC7;</R>
+<R w="SYMBOL PHUR PA" s="yy" tc="xx">&#xFC8;</R>
+<R w="SYMBOL NOR BU" s="yy" tc="xx">&#xFC9;</R>
+<R w="SYMBOL NOR BU NYIS -KHYIL" s="yy" tc="xx">&#xFCA;</R>
+<R w="SYMBOL NOR BU GSUM -KHYIL" s="yy" tc="xx">&#xFCB;</R>
+<R w="SYMBOL NOR BU BZHI -KHYIL" s="yy" tc="xx">&#xFCC;</R>
+ 
+<R w="SIGN RDEL NAG RDEL DKAR" s="yy" tc="xx">&#xFCE;</R>
+<R w="SIGN RDEL NAG GSUM" s="yy" tc="xx">&#xFCF;</R>
+<R w="MARK BSKA- SHOG GI MGO RGYAN" s="yy" tc="xx">&#xFD0;</R>
+<R w="MARK MNYAM YIG GI MGO RGYAN" s="yy" tc="xx">&#xFD1;</R>
+<R w="MARK NYIS TSHEG" s="yy" tc="xx">&#xFD2;</R>
+<R w="MARK INITIAL BRDA RNYING YIG MGO MDUN MA" s="yy" tc="xx">&#xFD3;</R>
+<R w="MARK CLOSING BRDA RNYING YIG MGO SGAB MA" s="yy" tc="xx">&#xFD4;</R>
+<R w="RIGHT-FACING SVASTI SIGN" s="yy" tc="xx">&#xFD5;</R>
+<R w="LEFT-FACING SVASTI SIGN" s="yy" tc="xx">&#xFD6;</R>
+<R w="RIGHT-FACING SVASTI SIGN WITH DOTS" s="yy" tc="xx">&#xFD7;</R>
+<R w="LEFT-FACING SVASTI SIGN WITH DOTS" s="yy" tc="xx">&#xFD8;</R>
+<R w="MARK LEADING MCHAN RTAGS" s="yy" tc="xx">&#xFD9;</R>
+<R w="MARK TRAILING MCHAN RTAGS" s="yy" tc="xx">&#xFDA;</R>
+
+</RECS>
+	
+</ALPHABET>
+
+

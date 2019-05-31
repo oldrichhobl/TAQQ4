@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<R w="TIBETAN SYLLABLE OM" s="yy" tc="xx">&amp;#xF00;</R>
+<R w="TIBETAN MARK GTER YIG MGO TRUNCATED A" s="yy" tc="xx">&amp;#xF01;</R>
+<R w="TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA" s="yy" tc="xx">&amp;#xF02;</R>
+<R w="TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA" s="yy" tc="xx">&amp;#xF03;</R>
+<R w="TIBETAN MARK INITIAL YIG MGO MDUN MA" s="yy" tc="xx">&amp;#xF04;</R>
+<R w="TIBETAN MARK CLOSING YIG MGO SGAB MA" s="yy" tc="xx">&amp;#xF05;</R>
+<R w="TIBETAN MARK CARET YIG MGO PHUR SHAD MA" s="yy" tc="xx">&amp;#xF06;</R>
+<R w="TIBETAN MARK YIG MGO TSHEG SHAD MA" s="yy" tc="xx">&amp;#xF07;</R>
+<R w="TIBETAN MARK SBRUL SHAD" s="yy" tc="xx">&amp;#xF08;</R>
+<R w="TIBETAN MARK BSKUR YIG MGO" s="yy" tc="xx">&amp;#xF09;</R>
+<R w="TIBETAN MARK BKA- SHOG YIG MGO" s="yy" tc="xx">&amp;#xF0A;</R>
+<R w="TIBETAN MARK INTERSYLLABIC TSHEG" s="yy" tc="xx">&amp;#xF0B;</R>
+<R w="TIBETAN MARK DELIMITER TSHEG BSTAR" s="yy" tc="xx">&amp;#xF0C;</R>
+<R w="TIBETAN MARK SHAD" s="yy" tc="xx">&amp;#xF0D;</R>
+<R w="TIBETAN MARK NYIS SHAD" s="yy" tc="xx">&amp;#xF0E;</R>
+<R w="TIBETAN MARK TSHEG SHAD" s="yy" tc="xx">&amp;#xF0F;</R>
+<R w="TIBETAN MARK NYIS TSHEG SHAD" s="yy" tc="xx">&amp;#xF10;</R>
+<R w="TIBETAN MARK RIN CHEN SPUNGS SHAD" s="yy" tc="xx">&amp;#xF11;</R>
+<R w="TIBETAN MARK RGYA GRAM SHAD" s="yy" tc="xx">&amp;#xF12;</R>
+<R w="TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN" s="yy" tc="xx">&amp;#xF13;</R>
+<R w="TIBETAN MARK GTER TSHEG" s="yy" tc="xx">&amp;#xF14;</R>
+<R w="TIBETAN LOGOTYPE SIGN CHAD RTAGS" s="yy" tc="xx">&amp;#xF15;</R>
+<R w="TIBETAN LOGOTYPE SIGN LHAG RTAGS" s="yy" tc="xx">&amp;#xF16;</R>
+<R w="TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS" s="yy" tc="xx">&amp;#xF17;</R>
+<R w="TIBETAN ASTROLOGICAL SIGN -KHYUD PA" s="yy" tc="xx">&amp;#xF18;</R>
+<R w="TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS" s="yy" tc="xx">&amp;#xF19;</R>
+<R w="TIBETAN SIGN RDEL DKAR GCIG" s="yy" tc="xx">&amp;#xF1A;</R>
+<R w="TIBETAN SIGN RDEL DKAR GNYIS" s="yy" tc="xx">&amp;#xF1B;</R>
+<R w="TIBETAN SIGN RDEL DKAR GSUM" s="yy" tc="xx">&amp;#xF1C;</R>
+<R w="TIBETAN SIGN RDEL NAG GCIG" s="yy" tc="xx">&amp;#xF1D;</R>
+<R w="TIBETAN SIGN RDEL NAG GNYIS" s="yy" tc="xx">&amp;#xF1E;</R>
+<R w="TIBETAN SIGN RDEL DKAR RDEL NAG" s="yy" tc="xx">&amp;#xF1F;</R>
+<R w="TIBETAN DIGIT ZERO" s="yy" tc="xx">&amp;#xF20;</R>
+<R w="TIBETAN DIGIT ONE" s="yy" tc="xx">&amp;#xF21;</R>
+<R w="TIBETAN DIGIT TWO" s="yy" tc="xx">&amp;#xF22;</R>
+<R w="TIBETAN DIGIT THREE" s="yy" tc="xx">&amp;#xF23;</R>
+<R w="TIBETAN DIGIT FOUR" s="yy" tc="xx">&amp;#xF24;</R>
+<R w="TIBETAN DIGIT FIVE" s="yy" tc="xx">&amp;#xF25;</R>
+<R w="TIBETAN DIGIT SIX" s="yy" tc="xx">&amp;#xF26;</R>
+<R w="TIBETAN DIGIT SEVEN" s="yy" tc="xx">&amp;#xF27;</R>
+<R w="TIBETAN DIGIT EIGHT" s="yy" tc="xx">&amp;#xF28;</R>
+<R w="TIBETAN DIGIT NINE" s="yy" tc="xx">&amp;#xF29;</R>
+<R w="TIBETAN DIGIT HALF ONE" s="yy" tc="xx">&amp;#xF2A;</R>
+<R w="TIBETAN DIGIT HALF TWO" s="yy" tc="xx">&amp;#xF2B;</R>
+<R w="TIBETAN DIGIT HALF THREE" s="yy" tc="xx">&amp;#xF2C;</R>
+<R w="TIBETAN DIGIT HALF FOUR" s="yy" tc="xx">&amp;#xF2D;</R>
+<R w="TIBETAN DIGIT HALF FIVE" s="yy" tc="xx">&amp;#xF2E;</R>
+<R w="TIBETAN DIGIT HALF SIX" s="yy" tc="xx">&amp;#xF2F;</R>
+<R w="TIBETAN DIGIT HALF SEVEN" s="yy" tc="xx">&amp;#xF30;</R>
+<R w="TIBETAN DIGIT HALF EIGHT" s="yy" tc="xx">&amp;#xF31;</R>
+<R w="TIBETAN DIGIT HALF NINE" s="yy" tc="xx">&amp;#xF32;</R>
+<R w="TIBETAN DIGIT HALF ZERO" s="yy" tc="xx">&amp;#xF33;</R>
+<R w="TIBETAN MARK BSDUS RTAGS" s="yy" tc="xx">&amp;#xF34;</R>
+<R w="TIBETAN MARK NGAS BZUNG NYI ZLA" s="yy" tc="xx">&amp;#xF35;</R>
+<R w="TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN" s="yy" tc="xx">&amp;#xF36;</R>
+<R w="TIBETAN MARK NGAS BZUNG SGOR RTAGS" s="yy" tc="xx">&amp;#xF37;</R>
+<R w="TIBETAN MARK CHE MGO" s="yy" tc="xx">&amp;#xF38;</R>
+<R w="TIBETAN MARK TSA -PHRU" s="yy" tc="xx">&amp;#xF39;</R>
+<R w="TIBETAN MARK GUG RTAGS GYON" s="yy" tc="xx">&amp;#xF3A;</R>
+<R w="TIBETAN MARK GUG RTAGS GYAS" s="yy" tc="xx">&amp;#xF3B;</R>
+<R w="TIBETAN MARK ANG KHANG GYON" s="yy" tc="xx">&amp;#xF3C;</R>
+<R w="TIBETAN MARK ANG KHANG GYAS" s="yy" tc="xx">&amp;#xF3D;</R>
+<R w="TIBETAN SIGN YAR TSHES" s="yy" tc="xx">&amp;#xF3E;</R>
+<R w="TIBETAN SIGN MAR TSHES" s="yy" tc="xx">&amp;#xF3F;</R>
+<R w="TIBETAN LETTER KA" s="yy" tc="xx">&amp;#xF40;</R>
+<R w="TIBETAN LETTER KHA" s="yy" tc="xx">&amp;#xF41;</R>
+<R w="TIBETAN LETTER GA" s="yy" tc="xx">&amp;#xF42;</R>
+<R w="TIBETAN LETTER GHA" s="yy" tc="xx">&amp;#xF43;</R>
+<R w="TIBETAN LETTER NGA" s="yy" tc="xx">&amp;#xF44;</R>
+<R w="TIBETAN LETTER CA" s="yy" tc="xx">&amp;#xF45;</R>
+<R w="TIBETAN LETTER CHA" s="yy" tc="xx">&amp;#xF46;</R>
+<R w="TIBETAN LETTER JA" s="yy" tc="xx">&amp;#xF47;</R>
+<R w="" s="yy" tc="xx">&amp;#xF48;</R>
+<R w="TIBETAN LETTER NYA" s="yy" tc="xx">&amp;#xF49;</R>
+<R w="TIBETAN LETTER TTA" s="yy" tc="xx">&amp;#xF4A;</R>
+<R w="TIBETAN LETTER TTHA" s="yy" tc="xx">&amp;#xF4B;</R>
+<R w="TIBETAN LETTER DDA" s="yy" tc="xx">&amp;#xF4C;</R>
+<R w="TIBETAN LETTER DDHA" s="yy" tc="xx">&amp;#xF4D;</R>
+<R w="TIBETAN LETTER NNA" s="yy" tc="xx">&amp;#xF4E;</R>
+<R w="TIBETAN LETTER TA" s="yy" tc="xx">&amp;#xF4F;</R>
+<R w="TIBETAN LETTER THA" s="yy" tc="xx">&amp;#xF50;</R>
+<R w="TIBETAN LETTER DA" s="yy" tc="xx">&amp;#xF51;</R>
+<R w="TIBETAN LETTER DHA" s="yy" tc="xx">&amp;#xF52;</R>
+<R w="TIBETAN LETTER NA" s="yy" tc="xx">&amp;#xF53;</R>
+<R w="TIBETAN LETTER PA" s="yy" tc="xx">&amp;#xF54;</R>
+<R w="TIBETAN LETTER PHA" s="yy" tc="xx">&amp;#xF55;</R>
+<R w="TIBETAN LETTER BA" s="yy" tc="xx">&amp;#xF56;</R>
+<R w="TIBETAN LETTER BHA" s="yy" tc="xx">&amp;#xF57;</R>
+<R w="TIBETAN LETTER MA" s="yy" tc="xx">&amp;#xF58;</R>
+<R w="TIBETAN LETTER TSA" s="yy" tc="xx">&amp;#xF59;</R>
+<R w="TIBETAN LETTER TSHA" s="yy" tc="xx">&amp;#xF5A;</R>
+<R w="TIBETAN LETTER DZA" s="yy" tc="xx">&amp;#xF5B;</R>
+<R w="TIBETAN LETTER DZHA" s="yy" tc="xx">&amp;#xF5C;</R>
+<R w="TIBETAN LETTER WA" s="yy" tc="xx">&amp;#xF5D;</R>
+<R w="TIBETAN LETTER ZHA" s="yy" tc="xx">&amp;#xF5E;</R>
+<R w="TIBETAN LETTER ZA" s="yy" tc="xx">&amp;#xF5F;</R>
+<R w="TIBETAN LETTER -A" s="yy" tc="xx">&amp;#xF60;</R>
+<R w="TIBETAN LETTER YA" s="yy" tc="xx">&amp;#xF61;</R>
+<R w="TIBETAN LETTER RA" s="yy" tc="xx">&amp;#xF62;</R>
+<R w="TIBETAN LETTER LA" s="yy" tc="xx">&amp;#xF63;</R>
+<R w="TIBETAN LETTER SHA" s="yy" tc="xx">&amp;#xF64;</R>
+<R w="TIBETAN LETTER SSA" s="yy" tc="xx">&amp;#xF65;</R>
+<R w="TIBETAN LETTER SA" s="yy" tc="xx">&amp;#xF66;</R>
+<R w="TIBETAN LETTER HA" s="yy" tc="xx">&amp;#xF67;</R>
+<R w="TIBETAN LETTER A" s="yy" tc="xx">&amp;#xF68;</R>
+<R w="TIBETAN LETTER KSSA" s="yy" tc="xx">&amp;#xF69;</R>
+<R w="TIBETAN LETTER FIXED-FORM RA" s="yy" tc="xx">&amp;#xF6A;</R>
+<R w="TIBETAN LETTER KKA" s="yy" tc="xx">&amp;#xF6B;</R>
+<R w="TIBETAN LETTER RRA" s="yy" tc="xx">&amp;#xF6C;</R>
+<R w="" s="yy" tc="xx">&amp;#xF6D;</R>
+<R w="" s="yy" tc="xx">&amp;#xF6E;</R>
+<R w="" s="yy" tc="xx">&amp;#xF6F;</R>
+<R w="" s="yy" tc="xx">&amp;#xF70;</R>
+<R w="TIBETAN VOWEL SIGN AA" s="yy" tc="xx">&amp;#xF71;</R>
+<R w="TIBETAN VOWEL SIGN I" s="yy" tc="xx">&amp;#xF72;</R>
+<R w="TIBETAN VOWEL SIGN II" s="yy" tc="xx">&amp;#xF73;</R>
+<R w="TIBETAN VOWEL SIGN U" s="yy" tc="xx">&amp;#xF74;</R>
+<R w="TIBETAN VOWEL SIGN UU" s="yy" tc="xx">&amp;#xF75;</R>
+<R w="TIBETAN VOWEL SIGN VOCALIC R" s="yy" tc="xx">&amp;#xF76;</R>
+<R w="TIBETAN VOWEL SIGN VOCALIC RR" s="yy" tc="xx">&amp;#xF77;</R>
+<R w="TIBETAN VOWEL SIGN VOCALIC L" s="yy" tc="xx">&amp;#xF78;</R>
+<R w="TIBETAN VOWEL SIGN VOCALIC LL" s="yy" tc="xx">&amp;#xF79;</R>
+<R w="TIBETAN VOWEL SIGN E" s="yy" tc="xx">&amp;#xF7A;</R>
+<R w="TIBETAN VOWEL SIGN EE" s="yy" tc="xx">&amp;#xF7B;</R>
+<R w="TIBETAN VOWEL SIGN O" s="yy" tc="xx">&amp;#xF7C;</R>
+<R w="TIBETAN VOWEL SIGN OO" s="yy" tc="xx">&amp;#xF7D;</R>
+<R w="TIBETAN SIGN RJES SU NGA RO" s="yy" tc="xx">&amp;#xF7E;</R>
+<R w="TIBETAN SIGN RNAM BCAD" s="yy" tc="xx">&amp;#xF7F;</R>
+<R w="TIBETAN VOWEL SIGN REVERSED I" s="yy" tc="xx">&amp;#xF80;</R>
+<R w="TIBETAN VOWEL SIGN REVERSED II" s="yy" tc="xx">&amp;#xF81;</R>
+<R w="TIBETAN SIGN NYI ZLA NAA DA" s="yy" tc="xx">&amp;#xF82;</R>
+<R w="TIBETAN SIGN SNA LDAN" s="yy" tc="xx">&amp;#xF83;</R>
+<R w="TIBETAN MARK HALANTA" s="yy" tc="xx">&amp;#xF84;</R>
+<R w="TIBETAN MARK PALUTA" s="yy" tc="xx">&amp;#xF85;</R>
+<R w="TIBETAN SIGN LCI RTAGS" s="yy" tc="xx">&amp;#xF86;</R>
+<R w="TIBETAN SIGN YANG RTAGS" s="yy" tc="xx">&amp;#xF87;</R>
+<R w="TIBETAN SIGN LCE TSA CAN" s="yy" tc="xx">&amp;#xF88;</R>
+<R w="TIBETAN SIGN MCHU CAN" s="yy" tc="xx">&amp;#xF89;</R>
+<R w="TIBETAN SIGN GRU CAN RGYINGS" s="yy" tc="xx">&amp;#xF8A;</R>
+<R w="TIBETAN SIGN GRU MED RGYINGS" s="yy" tc="xx">&amp;#xF8B;</R>
+<R w="TIBETAN SIGN INVERTED MCHU CAN" s="yy" tc="xx">&amp;#xF8C;</R>
+<R w="TIBETAN SUBJOINED SIGN LCE TSA CAN" s="yy" tc="xx">&amp;#xF8D;</R>
+<R w="TIBETAN SUBJOINED SIGN MCHU CAN" s="yy" tc="xx">&amp;#xF8E;</R>
+<R w="TIBETAN SUBJOINED SIGN INVERTED MCHU CAN" s="yy" tc="xx">&amp;#xF8F;</R>
+<R w="TIBETAN SUBJOINED LETTER KA" s="yy" tc="xx">&amp;#xF90;</R>
+<R w="TIBETAN SUBJOINED LETTER KHA" s="yy" tc="xx">&amp;#xF91;</R>
+<R w="TIBETAN SUBJOINED LETTER GA" s="yy" tc="xx">&amp;#xF92;</R>
+<R w="TIBETAN SUBJOINED LETTER GHA" s="yy" tc="xx">&amp;#xF93;</R>
+<R w="TIBETAN SUBJOINED LETTER NGA" s="yy" tc="xx">&amp;#xF94;</R>
+<R w="TIBETAN SUBJOINED LETTER CA" s="yy" tc="xx">&amp;#xF95;</R>
+<R w="TIBETAN SUBJOINED LETTER CHA" s="yy" tc="xx">&amp;#xF96;</R>
+<R w="TIBETAN SUBJOINED LETTER JA" s="yy" tc="xx">&amp;#xF97;</R>
+<R w="" s="yy" tc="xx">&amp;#xF98;</R>
+<R w="TIBETAN SUBJOINED LETTER NYA" s="yy" tc="xx">&amp;#xF99;</R>
+<R w="TIBETAN SUBJOINED LETTER TTA" s="yy" tc="xx">&amp;#xF9A;</R>
+<R w="TIBETAN SUBJOINED LETTER TTHA" s="yy" tc="xx">&amp;#xF9B;</R>
+<R w="TIBETAN SUBJOINED LETTER DDA" s="yy" tc="xx">&amp;#xF9C;</R>
+<R w="TIBETAN SUBJOINED LETTER DDHA" s="yy" tc="xx">&amp;#xF9D;</R>
+<R w="TIBETAN SUBJOINED LETTER NNA" s="yy" tc="xx">&amp;#xF9E;</R>
+<R w="TIBETAN SUBJOINED LETTER TA" s="yy" tc="xx">&amp;#xF9F;</R>
+<R w="TIBETAN SUBJOINED LETTER THA" s="yy" tc="xx">&amp;#xFA0;</R>
+<R w="TIBETAN SUBJOINED LETTER DA" s="yy" tc="xx">&amp;#xFA1;</R>
+<R w="TIBETAN SUBJOINED LETTER DHA" s="yy" tc="xx">&amp;#xFA2;</R>
+<R w="TIBETAN SUBJOINED LETTER NA" s="yy" tc="xx">&amp;#xFA3;</R>
+<R w="TIBETAN SUBJOINED LETTER PA" s="yy" tc="xx">&amp;#xFA4;</R>
+<R w="TIBETAN SUBJOINED LETTER PHA" s="yy" tc="xx">&amp;#xFA5;</R>
+<R w="TIBETAN SUBJOINED LETTER BA" s="yy" tc="xx">&amp;#xFA6;</R>
+<R w="TIBETAN SUBJOINED LETTER BHA" s="yy" tc="xx">&amp;#xFA7;</R>
+<R w="TIBETAN SUBJOINED LETTER MA" s="yy" tc="xx">&amp;#xFA8;</R>
+<R w="TIBETAN SUBJOINED LETTER TSA" s="yy" tc="xx">&amp;#xFA9;</R>
+<R w="TIBETAN SUBJOINED LETTER TSHA" s="yy" tc="xx">&amp;#xFAA;</R>
+<R w="TIBETAN SUBJOINED LETTER DZA" s="yy" tc="xx">&amp;#xFAB;</R>
+<R w="TIBETAN SUBJOINED LETTER DZHA" s="yy" tc="xx">&amp;#xFAC;</R>
+<R w="TIBETAN SUBJOINED LETTER WA" s="yy" tc="xx">&amp;#xFAD;</R>
+<R w="TIBETAN SUBJOINED LETTER ZHA" s="yy" tc="xx">&amp;#xFAE;</R>
+<R w="TIBETAN SUBJOINED LETTER ZA" s="yy" tc="xx">&amp;#xFAF;</R>
+<R w="TIBETAN SUBJOINED LETTER -A" s="yy" tc="xx">&amp;#xFB0;</R>
+<R w="TIBETAN SUBJOINED LETTER YA" s="yy" tc="xx">&amp;#xFB1;</R>
+<R w="TIBETAN SUBJOINED LETTER RA" s="yy" tc="xx">&amp;#xFB2;</R>
+<R w="TIBETAN SUBJOINED LETTER LA" s="yy" tc="xx">&amp;#xFB3;</R>
+<R w="TIBETAN SUBJOINED LETTER SHA" s="yy" tc="xx">&amp;#xFB4;</R>
+<R w="TIBETAN SUBJOINED LETTER SSA" s="yy" tc="xx">&amp;#xFB5;</R>
+<R w="TIBETAN SUBJOINED LETTER SA" s="yy" tc="xx">&amp;#xFB6;</R>
+<R w="TIBETAN SUBJOINED LETTER HA" s="yy" tc="xx">&amp;#xFB7;</R>
+<R w="TIBETAN SUBJOINED LETTER A" s="yy" tc="xx">&amp;#xFB8;</R>
+<R w="TIBETAN SUBJOINED LETTER KSSA" s="yy" tc="xx">&amp;#xFB9;</R>
+<R w="TIBETAN SUBJOINED LETTER FIXED-FORM WA" s="yy" tc="xx">&amp;#xFBA;</R>
+<R w="TIBETAN SUBJOINED LETTER FIXED-FORM YA" s="yy" tc="xx">&amp;#xFBB;</R>
+<R w="TIBETAN SUBJOINED LETTER FIXED-FORM RA" s="yy" tc="xx">&amp;#xFBC;</R>
+<R w="" s="yy" tc="xx">&amp;#xFBD;</R>
+<R w="TIBETAN KU RU KHA" s="yy" tc="xx">&amp;#xFBE;</R>
+<R w="TIBETAN KU RU KHA BZHI MIG CAN" s="yy" tc="xx">&amp;#xFBF;</R>
+<R w="TIBETAN CANTILLATION SIGN HEAVY BEAT" s="yy" tc="xx">&amp;#xFC0;</R>
+<R w="TIBETAN CANTILLATION SIGN LIGHT BEAT" s="yy" tc="xx">&amp;#xFC1;</R>
+<R w="TIBETAN CANTILLATION SIGN CANG TE-U" s="yy" tc="xx">&amp;#xFC2;</R>
+<R w="TIBETAN CANTILLATION SIGN SBUB -CHAL" s="yy" tc="xx">&amp;#xFC3;</R>
+<R w="TIBETAN SYMBOL DRIL BU" s="yy" tc="xx">&amp;#xFC4;</R>
+<R w="TIBETAN SYMBOL RDO RJE" s="yy" tc="xx">&amp;#xFC5;</R>
+<R w="TIBETAN SYMBOL PADMA GDAN" s="yy" tc="xx">&amp;#xFC6;</R>
+<R w="TIBETAN SYMBOL RDO RJE RGYA GRAM" s="yy" tc="xx">&amp;#xFC7;</R>
+<R w="TIBETAN SYMBOL PHUR PA" s="yy" tc="xx">&amp;#xFC8;</R>
+<R w="TIBETAN SYMBOL NOR BU" s="yy" tc="xx">&amp;#xFC9;</R>
+<R w="TIBETAN SYMBOL NOR BU NYIS -KHYIL" s="yy" tc="xx">&amp;#xFCA;</R>
+<R w="TIBETAN SYMBOL NOR BU GSUM -KHYIL" s="yy" tc="xx">&amp;#xFCB;</R>
+<R w="TIBETAN SYMBOL NOR BU BZHI -KHYIL" s="yy" tc="xx">&amp;#xFCC;</R>
+<R w="" s="yy" tc="xx">&amp;#xFCD;</R>
+<R w="TIBETAN SIGN RDEL NAG RDEL DKAR" s="yy" tc="xx">&amp;#xFCE;</R>
+<R w="TIBETAN SIGN RDEL NAG GSUM" s="yy" tc="xx">&amp;#xFCF;</R>
+<R w="TIBETAN MARK BSKA- SHOG GI MGO RGYAN" s="yy" tc="xx">&amp;#xFD0;</R>
+<R w="TIBETAN MARK MNYAM YIG GI MGO RGYAN" s="yy" tc="xx">&amp;#xFD1;</R>
+<R w="TIBETAN MARK NYIS TSHEG" s="yy" tc="xx">&amp;#xFD2;</R>
+<R w="TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA" s="yy" tc="xx">&amp;#xFD3;</R>
+<R w="TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA" s="yy" tc="xx">&amp;#xFD4;</R>
+<R w="RIGHT-FACING SVASTI SIGN" s="yy" tc="xx">&amp;#xFD5;</R>
+<R w="LEFT-FACING SVASTI SIGN" s="yy" tc="xx">&amp;#xFD6;</R>
+<R w="RIGHT-FACING SVASTI SIGN WITH DOTS" s="yy" tc="xx">&amp;#xFD7;</R>
+<R w="LEFT-FACING SVASTI SIGN WITH DOTS" s="yy" tc="xx">&amp;#xFD8;</R>
+<R w="TIBETAN MARK LEADING MCHAN RTAGS" s="yy" tc="xx">&amp;#xFD9;</R>
+<R w="TIBETAN MARK TRAILING MCHAN RTAGS" s="yy" tc="xx">&amp;#xFDA;</R>
+<R w="" s="yy" tc="xx">&amp;#xFDB;</R>
+<R w="" s="yy" tc="xx">&amp;#xFDC;</R>
+<R w="" s="yy" tc="xx">&amp;#xFDD;</R>
+<R w="" s="yy" tc="xx">&amp;#xFDE;</R>
+<R w="" s="yy" tc="xx">&amp;#xFDF;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE0;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE1;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE2;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE3;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE4;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE5;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE6;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE7;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE8;</R>
+<R w="" s="yy" tc="xx">&amp;#xFE9;</R>
+<R w="" s="yy" tc="xx">&amp;#xFEA;</R>
+<R w="" s="yy" tc="xx">&amp;#xFEB;</R>
+<R w="" s="yy" tc="xx">&amp;#xFEC;</R>
+<R w="" s="yy" tc="xx">&amp;#xFED;</R>
+<R w="" s="yy" tc="xx">&amp;#xFEE;</R>
+<R w="" s="yy" tc="xx">&amp;#xFEF;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF0;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF1;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF2;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF3;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF4;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF5;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF6;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF7;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF8;</R>
+<R w="" s="yy" tc="xx">&amp;#xFF9;</R>
+<R w="" s="yy" tc="xx">&amp;#xFFA;</R>
+<R w="" s="yy" tc="xx">&amp;#xFFB;</R>
+<R w="" s="yy" tc="xx">&amp;#xFFC;</R>
+<R w="" s="yy" tc="xx">&amp;#xFFD;</R>
+<R w="" s="yy" tc="xx">&amp;#xFFE;</R>
+<R w="" s="yy" tc="xx">&amp;#xFFF;</R>

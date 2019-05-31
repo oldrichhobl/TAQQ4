@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      
+      <ion-back-button  defaultHref="home" color="danger"></ion-back-button>
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      {{headtext}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
+      <!-- <ion-icon [name]="item.icon" item-left></ion-icon>  -->
+      <ion-item slot="start" >
+      	<div  class="znakC">
+        {{item.title}}
+        </div>
+      </ion-item>  
+      <ion-label item-right>
+        {{item.note}}
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

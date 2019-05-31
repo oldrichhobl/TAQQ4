@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ALPHABET>
+
+<tr class="cev">
+<td class="cpt">U+0F00</td><td class="char">ༀ</td><td class="htmlrepr">&amp;#xF00;</td><td class="htmldisp">&#xF00;</td>
+<td class="name">TIBETAN SYLLABLE OM</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F01</td><td class="char">༁</td><td class="htmlrepr">&amp;#xF01;</td><td class="htmldisp">&#xF01;</td>
+<td class="name">TIBETAN MARK GTER YIG MGO TRUNCATED A</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F02</td><td class="char">༂</td><td class="htmlrepr">&amp;#xF02;</td><td class="htmldisp">&#xF02;</td>
+<td class="name">TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F03</td><td class="char">༃</td><td class="htmlrepr">&amp;#xF03;</td><td class="htmldisp">&#xF03;</td>
+<td class="name">TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F04</td><td class="char">༄</td><td class="htmlrepr">&amp;#xF04;</td><td class="htmldisp">&#xF04;</td>
+<td class="name">TIBETAN MARK INITIAL YIG MGO MDUN MA</td>
+<td class="name">TIBETAN SINGLE ORNAMENT</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F05</td><td class="char">༅</td><td class="htmlrepr">&amp;#xF05;</td><td class="htmldisp">&#xF05;</td>
+<td class="name">TIBETAN MARK CLOSING YIG MGO SGAB MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F06</td><td class="char">༆</td><td class="htmlrepr">&amp;#xF06;</td><td class="htmldisp">&#xF06;</td>
+<td class="name">TIBETAN MARK CARET YIG MGO PHUR SHAD MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F07</td><td class="char">༇</td><td class="htmlrepr">&amp;#xF07;</td><td class="htmldisp">&#xF07;</td>
+<td class="name">TIBETAN MARK YIG MGO TSHEG SHAD MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F08</td><td class="char">༈</td><td class="htmlrepr">&amp;#xF08;</td><td class="htmldisp">&#xF08;</td>
+<td class="name">TIBETAN MARK SBRUL SHAD</td>
+<td class="name">TIBETAN RGYANSHAD</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F09</td><td class="char">༉</td><td class="htmlrepr">&amp;#xF09;</td><td class="htmldisp">&#xF09;</td>
+<td class="name">TIBETAN MARK BSKUR YIG MGO</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F0A</td><td class="char">༊</td><td class="htmlrepr">&amp;#xF0A;</td><td class="htmldisp">&#xF0A;</td>
+<td class="name">TIBETAN MARK BKA- SHOG YIG MGO</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F0B</td><td class="char">་</td><td class="htmlrepr">&amp;#xF0B;</td><td class="htmldisp">&#xF0B;</td>
+<td class="name">TIBETAN MARK INTERSYLLABIC TSHEG</td>
+<td class="name">TIBETAN TSEG</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F0C</td><td class="char">༌</td><td class="htmlrepr">&amp;#xF0C;</td><td class="htmldisp">&#xF0C;</td>
+<td class="name">TIBETAN MARK DELIMITER TSHEG BSTAR</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F0D</td><td class="char">།</td><td class="htmlrepr">&amp;#xF0D;</td><td class="htmldisp">&#xF0D;</td>
+<td class="name">TIBETAN MARK SHAD</td>
+<td class="name">TIBETAN SHAD</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F0E</td><td class="char">༎</td><td class="htmlrepr">&amp;#xF0E;</td><td class="htmldisp">&#xF0E;</td>
+<td class="name">TIBETAN MARK NYIS SHAD</td>
+<td class="name">TIBETAN DOUBLE SHAD</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F0F</td><td class="char">༏</td><td class="htmlrepr">&amp;#xF0F;</td><td class="htmldisp">&#xF0F;</td>
+<td class="name">TIBETAN MARK TSHEG SHAD</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F10</td><td class="char">༐</td><td class="htmlrepr">&amp;#xF10;</td><td class="htmldisp">&#xF10;</td>
+<td class="name">TIBETAN MARK NYIS TSHEG SHAD</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F11</td><td class="char">༑</td><td class="htmlrepr">&amp;#xF11;</td><td class="htmldisp">&#xF11;</td>
+<td class="name">TIBETAN MARK RIN CHEN SPUNGS SHAD</td>
+<td class="name">TIBETAN RINCHANPHUNGSHAD</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F12</td><td class="char">༒</td><td class="htmlrepr">&amp;#xF12;</td><td class="htmldisp">&#xF12;</td>
+<td class="name">TIBETAN MARK RGYA GRAM SHAD</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F13</td><td class="char">༓</td><td class="htmlrepr">&amp;#xF13;</td><td class="htmldisp">&#xF13;</td>
+<td class="name">TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F14</td><td class="char">༔</td><td class="htmlrepr">&amp;#xF14;</td><td class="htmldisp">&#xF14;</td>
+<td class="name">TIBETAN MARK GTER TSHEG</td>
+<td class="name">TIBETAN COMMA</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F15</td><td class="char">༕</td><td class="htmlrepr">&amp;#xF15;</td><td class="htmldisp">&#xF15;</td>
+<td class="name">TIBETAN LOGOTYPE SIGN CHAD RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F16</td><td class="char">༖</td><td class="htmlrepr">&amp;#xF16;</td><td class="htmldisp">&#xF16;</td>
+<td class="name">TIBETAN LOGOTYPE SIGN LHAG RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F17</td><td class="char">༗</td><td class="htmlrepr">&amp;#xF17;</td><td class="htmldisp">&#xF17;</td>
+<td class="name">TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F18</td><td class="char">༘</td><td class="htmlrepr">&amp;#xF18;</td><td class="htmldisp">&#xF18;</td>
+<td class="name">TIBETAN ASTROLOGICAL SIGN -KHYUD PA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F19</td><td class="char">༙</td><td class="htmlrepr">&amp;#xF19;</td><td class="htmldisp">&#xF19;</td>
+<td class="name">TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F1A</td><td class="char">༚</td><td class="htmlrepr">&amp;#xF1A;</td><td class="htmldisp">&#xF1A;</td>
+<td class="name">TIBETAN SIGN RDEL DKAR GCIG</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F1B</td><td class="char">༛</td><td class="htmlrepr">&amp;#xF1B;</td><td class="htmldisp">&#xF1B;</td>
+<td class="name">TIBETAN SIGN RDEL DKAR GNYIS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F1C</td><td class="char">༜</td><td class="htmlrepr">&amp;#xF1C;</td><td class="htmldisp">&#xF1C;</td>
+<td class="name">TIBETAN SIGN RDEL DKAR GSUM</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F1D</td><td class="char">༝</td><td class="htmlrepr">&amp;#xF1D;</td><td class="htmldisp">&#xF1D;</td>
+<td class="name">TIBETAN SIGN RDEL NAG GCIG</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F1E</td><td class="char">༞</td><td class="htmlrepr">&amp;#xF1E;</td><td class="htmldisp">&#xF1E;</td>
+<td class="name">TIBETAN SIGN RDEL NAG GNYIS</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F1F</td><td class="char">༟</td><td class="htmlrepr">&amp;#xF1F;</td><td class="htmldisp">&#xF1F;</td>
+<td class="name">TIBETAN SIGN RDEL DKAR RDEL NAG</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F20</td><td class="char">༠</td><td class="htmlrepr">&amp;#xF20;</td><td class="htmldisp">&#xF20;</td>
+<td class="name">TIBETAN DIGIT ZERO</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F21</td><td class="char">༡</td><td class="htmlrepr">&amp;#xF21;</td><td class="htmldisp">&#xF21;</td>
+<td class="name">TIBETAN DIGIT ONE</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F22</td><td class="char">༢</td><td class="htmlrepr">&amp;#xF22;</td><td class="htmldisp">&#xF22;</td>
+<td class="name">TIBETAN DIGIT TWO</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F23</td><td class="char">༣</td><td class="htmlrepr">&amp;#xF23;</td><td class="htmldisp">&#xF23;</td>
+<td class="name">TIBETAN DIGIT THREE</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F24</td><td class="char">༤</td><td class="htmlrepr">&amp;#xF24;</td><td class="htmldisp">&#xF24;</td>
+<td class="name">TIBETAN DIGIT FOUR</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F25</td><td class="char">༥</td><td class="htmlrepr">&amp;#xF25;</td><td class="htmldisp">&#xF25;</td>
+<td class="name">TIBETAN DIGIT FIVE</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F26</td><td class="char">༦</td><td class="htmlrepr">&amp;#xF26;</td><td class="htmldisp">&#xF26;</td>
+<td class="name">TIBETAN DIGIT SIX</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F27</td><td class="char">༧</td><td class="htmlrepr">&amp;#xF27;</td><td class="htmldisp">&#xF27;</td>
+<td class="name">TIBETAN DIGIT SEVEN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F28</td><td class="char">༨</td><td class="htmlrepr">&amp;#xF28;</td><td class="htmldisp">&#xF28;</td>
+<td class="name">TIBETAN DIGIT EIGHT</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F29</td><td class="char">༩</td><td class="htmlrepr">&amp;#xF29;</td><td class="htmldisp">&#xF29;</td>
+<td class="name">TIBETAN DIGIT NINE</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F2A</td><td class="char">༪</td><td class="htmlrepr">&amp;#xF2A;</td><td class="htmldisp">&#xF2A;</td>
+<td class="name">TIBETAN DIGIT HALF ONE</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F2B</td><td class="char">༫</td><td class="htmlrepr">&amp;#xF2B;</td><td class="htmldisp">&#xF2B;</td>
+<td class="name">TIBETAN DIGIT HALF TWO</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F2C</td><td class="char">༬</td><td class="htmlrepr">&amp;#xF2C;</td><td class="htmldisp">&#xF2C;</td>
+<td class="name">TIBETAN DIGIT HALF THREE</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F2D</td><td class="char">༭</td><td class="htmlrepr">&amp;#xF2D;</td><td class="htmldisp">&#xF2D;</td>
+<td class="name">TIBETAN DIGIT HALF FOUR</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F2E</td><td class="char">༮</td><td class="htmlrepr">&amp;#xF2E;</td><td class="htmldisp">&#xF2E;</td>
+<td class="name">TIBETAN DIGIT HALF FIVE</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F2F</td><td class="char">༯</td><td class="htmlrepr">&amp;#xF2F;</td><td class="htmldisp">&#xF2F;</td>
+<td class="name">TIBETAN DIGIT HALF SIX</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F30</td><td class="char">༰</td><td class="htmlrepr">&amp;#xF30;</td><td class="htmldisp">&#xF30;</td>
+<td class="name">TIBETAN DIGIT HALF SEVEN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F31</td><td class="char">༱</td><td class="htmlrepr">&amp;#xF31;</td><td class="htmldisp">&#xF31;</td>
+<td class="name">TIBETAN DIGIT HALF EIGHT</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F32</td><td class="char">༲</td><td class="htmlrepr">&amp;#xF32;</td><td class="htmldisp">&#xF32;</td>
+<td class="name">TIBETAN DIGIT HALF NINE</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F33</td><td class="char">༳</td><td class="htmlrepr">&amp;#xF33;</td><td class="htmldisp">&#xF33;</td>
+<td class="name">TIBETAN DIGIT HALF ZERO</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F34</td><td class="char">༴</td><td class="htmlrepr">&amp;#xF34;</td><td class="htmldisp">&#xF34;</td>
+<td class="name">TIBETAN MARK BSDUS RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F35</td><td class="char">༵</td><td class="htmlrepr">&amp;#xF35;</td><td class="htmldisp">&#xF35;</td>
+<td class="name">TIBETAN MARK NGAS BZUNG NYI ZLA</td>
+<td class="name">TIBETAN HONORIFIC UNDER RING</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F36</td><td class="char">༶</td><td class="htmlrepr">&amp;#xF36;</td><td class="htmldisp">&#xF36;</td>
+<td class="name">TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F37</td><td class="char">༷</td><td class="htmlrepr">&amp;#xF37;</td><td class="htmldisp">&#xF37;</td>
+<td class="name">TIBETAN MARK NGAS BZUNG SGOR RTAGS</td>
+<td class="name">TIBETAN UNDER RING</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F38</td><td class="char">༸</td><td class="htmlrepr">&amp;#xF38;</td><td class="htmldisp">&#xF38;</td>
+<td class="name">TIBETAN MARK CHE MGO</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F39</td><td class="char">༹</td><td class="htmlrepr">&amp;#xF39;</td><td class="htmldisp">&#xF39;</td>
+<td class="name">TIBETAN MARK TSA -PHRU</td>
+<td class="name">TIBETAN LENITION MARK</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F3A</td><td class="char">༺</td><td class="htmlrepr">&amp;#xF3A;</td><td class="htmldisp">&#xF3A;</td>
+<td class="name">TIBETAN MARK GUG RTAGS GYON</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F3B</td><td class="char">༻</td><td class="htmlrepr">&amp;#xF3B;</td><td class="htmldisp">&#xF3B;</td>
+<td class="name">TIBETAN MARK GUG RTAGS GYAS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F3C</td><td class="char">༼</td><td class="htmlrepr">&amp;#xF3C;</td><td class="htmldisp">&#xF3C;</td>
+<td class="name">TIBETAN MARK ANG KHANG GYON</td>
+<td class="name">TIBETAN LEFT BRACE</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F3D</td><td class="char">༽</td><td class="htmlrepr">&amp;#xF3D;</td><td class="htmldisp">&#xF3D;</td>
+<td class="name">TIBETAN MARK ANG KHANG GYAS</td>
+<td class="name">TIBETAN RIGHT BRACE</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F3E</td><td class="char">༾</td><td class="htmlrepr">&amp;#xF3E;</td><td class="htmldisp">&#xF3E;</td>
+<td class="name">TIBETAN SIGN YAR TSHES</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F3F</td><td class="char">༿</td><td class="htmlrepr">&amp;#xF3F;</td><td class="htmldisp">&#xF3F;</td>
+<td class="name">TIBETAN SIGN MAR TSHES</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F40</td><td class="char">ཀ</td><td class="htmlrepr">&amp;#xF40;</td><td class="htmldisp">&#xF40;</td>
+<td class="name">TIBETAN LETTER KA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F41</td><td class="char">ཁ</td><td class="htmlrepr">&amp;#xF41;</td><td class="htmldisp">&#xF41;</td>
+<td class="name">TIBETAN LETTER KHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F42</td><td class="char">ག</td><td class="htmlrepr">&amp;#xF42;</td><td class="htmldisp">&#xF42;</td>
+<td class="name">TIBETAN LETTER GA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F43</td><td class="char">གྷ</td><td class="htmlrepr">&amp;#xF43;</td><td class="htmldisp">&#xF43;</td>
+<td class="name">TIBETAN LETTER GHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F44</td><td class="char">ང</td><td class="htmlrepr">&amp;#xF44;</td><td class="htmldisp">&#xF44;</td>
+<td class="name">TIBETAN LETTER NGA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F45</td><td class="char">ཅ</td><td class="htmlrepr">&amp;#xF45;</td><td class="htmldisp">&#xF45;</td>
+<td class="name">TIBETAN LETTER CA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F46</td><td class="char">ཆ</td><td class="htmlrepr">&amp;#xF46;</td><td class="htmldisp">&#xF46;</td>
+<td class="name">TIBETAN LETTER CHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F47</td><td class="char">ཇ</td><td class="htmlrepr">&amp;#xF47;</td><td class="htmldisp">&#xF47;</td>
+<td class="name">TIBETAN LETTER JA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F48</td><td class="char">཈</td><td class="htmlrepr">&amp;#xF48;</td><td class="htmldisp">&#xF48;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F49</td><td class="char">ཉ</td><td class="htmlrepr">&amp;#xF49;</td><td class="htmldisp">&#xF49;</td>
+<td class="name">TIBETAN LETTER NYA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F4A</td><td class="char">ཊ</td><td class="htmlrepr">&amp;#xF4A;</td><td class="htmldisp">&#xF4A;</td>
+<td class="name">TIBETAN LETTER TTA</td>
+<td class="name">TIBETAN LETTER REVERSED TA</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F4B</td><td class="char">ཋ</td><td class="htmlrepr">&amp;#xF4B;</td><td class="htmldisp">&#xF4B;</td>
+<td class="name">TIBETAN LETTER TTHA</td>
+<td class="name">TIBETAN LETTER REVERSED THA</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F4C</td><td class="char">ཌ</td><td class="htmlrepr">&amp;#xF4C;</td><td class="htmldisp">&#xF4C;</td>
+<td class="name">TIBETAN LETTER DDA</td>
+<td class="name">TIBETAN LETTER REVERSED DA</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F4D</td><td class="char">ཌྷ</td><td class="htmlrepr">&amp;#xF4D;</td><td class="htmldisp">&#xF4D;</td>
+<td class="name">TIBETAN LETTER DDHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F4E</td><td class="char">ཎ</td><td class="htmlrepr">&amp;#xF4E;</td><td class="htmldisp">&#xF4E;</td>
+<td class="name">TIBETAN LETTER NNA</td>
+<td class="name">TIBETAN LETTER REVERSED NA</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F4F</td><td class="char">ཏ</td><td class="htmlrepr">&amp;#xF4F;</td><td class="htmldisp">&#xF4F;</td>
+<td class="name">TIBETAN LETTER TA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F50</td><td class="char">ཐ</td><td class="htmlrepr">&amp;#xF50;</td><td class="htmldisp">&#xF50;</td>
+<td class="name">TIBETAN LETTER THA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F51</td><td class="char">ད</td><td class="htmlrepr">&amp;#xF51;</td><td class="htmldisp">&#xF51;</td>
+<td class="name">TIBETAN LETTER DA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F52</td><td class="char">དྷ</td><td class="htmlrepr">&amp;#xF52;</td><td class="htmldisp">&#xF52;</td>
+<td class="name">TIBETAN LETTER DHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F53</td><td class="char">ན</td><td class="htmlrepr">&amp;#xF53;</td><td class="htmldisp">&#xF53;</td>
+<td class="name">TIBETAN LETTER NA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F54</td><td class="char">པ</td><td class="htmlrepr">&amp;#xF54;</td><td class="htmldisp">&#xF54;</td>
+<td class="name">TIBETAN LETTER PA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F55</td><td class="char">ཕ</td><td class="htmlrepr">&amp;#xF55;</td><td class="htmldisp">&#xF55;</td>
+<td class="name">TIBETAN LETTER PHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F56</td><td class="char">བ</td><td class="htmlrepr">&amp;#xF56;</td><td class="htmldisp">&#xF56;</td>
+<td class="name">TIBETAN LETTER BA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F57</td><td class="char">བྷ</td><td class="htmlrepr">&amp;#xF57;</td><td class="htmldisp">&#xF57;</td>
+<td class="name">TIBETAN LETTER BHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F58</td><td class="char">མ</td><td class="htmlrepr">&amp;#xF58;</td><td class="htmldisp">&#xF58;</td>
+<td class="name">TIBETAN LETTER MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F59</td><td class="char">ཙ</td><td class="htmlrepr">&amp;#xF59;</td><td class="htmldisp">&#xF59;</td>
+<td class="name">TIBETAN LETTER TSA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F5A</td><td class="char">ཚ</td><td class="htmlrepr">&amp;#xF5A;</td><td class="htmldisp">&#xF5A;</td>
+<td class="name">TIBETAN LETTER TSHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F5B</td><td class="char">ཛ</td><td class="htmlrepr">&amp;#xF5B;</td><td class="htmldisp">&#xF5B;</td>
+<td class="name">TIBETAN LETTER DZA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F5C</td><td class="char">ཛྷ</td><td class="htmlrepr">&amp;#xF5C;</td><td class="htmldisp">&#xF5C;</td>
+<td class="name">TIBETAN LETTER DZHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F5D</td><td class="char">ཝ</td><td class="htmlrepr">&amp;#xF5D;</td><td class="htmldisp">&#xF5D;</td>
+<td class="name">TIBETAN LETTER WA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F5E</td><td class="char">ཞ</td><td class="htmlrepr">&amp;#xF5E;</td><td class="htmldisp">&#xF5E;</td>
+<td class="name">TIBETAN LETTER ZHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F5F</td><td class="char">ཟ</td><td class="htmlrepr">&amp;#xF5F;</td><td class="htmldisp">&#xF5F;</td>
+<td class="name">TIBETAN LETTER ZA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F60</td><td class="char">འ</td><td class="htmlrepr">&amp;#xF60;</td><td class="htmldisp">&#xF60;</td>
+<td class="name">TIBETAN LETTER -A</td>
+<td class="name">TIBETAN LETTER AA</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F61</td><td class="char">ཡ</td><td class="htmlrepr">&amp;#xF61;</td><td class="htmldisp">&#xF61;</td>
+<td class="name">TIBETAN LETTER YA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F62</td><td class="char">ར</td><td class="htmlrepr">&amp;#xF62;</td><td class="htmldisp">&#xF62;</td>
+<td class="name">TIBETAN LETTER RA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F63</td><td class="char">ལ</td><td class="htmlrepr">&amp;#xF63;</td><td class="htmldisp">&#xF63;</td>
+<td class="name">TIBETAN LETTER LA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F64</td><td class="char">ཤ</td><td class="htmlrepr">&amp;#xF64;</td><td class="htmldisp">&#xF64;</td>
+<td class="name">TIBETAN LETTER SHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F65</td><td class="char">ཥ</td><td class="htmlrepr">&amp;#xF65;</td><td class="htmldisp">&#xF65;</td>
+<td class="name">TIBETAN LETTER SSA</td>
+<td class="name">TIBETAN LETTER REVERSED SHA</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F66</td><td class="char">ས</td><td class="htmlrepr">&amp;#xF66;</td><td class="htmldisp">&#xF66;</td>
+<td class="name">TIBETAN LETTER SA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F67</td><td class="char">ཧ</td><td class="htmlrepr">&amp;#xF67;</td><td class="htmldisp">&#xF67;</td>
+<td class="name">TIBETAN LETTER HA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F68</td><td class="char">ཨ</td><td class="htmlrepr">&amp;#xF68;</td><td class="htmldisp">&#xF68;</td>
+<td class="name">TIBETAN LETTER A</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F69</td><td class="char">ཀྵ</td><td class="htmlrepr">&amp;#xF69;</td><td class="htmldisp">&#xF69;</td>
+<td class="name">TIBETAN LETTER KSSA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F6A</td><td class="char">ཪ</td><td class="htmlrepr">&amp;#xF6A;</td><td class="htmldisp">&#xF6A;</td>
+<td class="name">TIBETAN LETTER FIXED-FORM RA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F6B</td><td class="char">ཫ</td><td class="htmlrepr">&amp;#xF6B;</td><td class="htmldisp">&#xF6B;</td>
+<td class="name">TIBETAN LETTER KKA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F6C</td><td class="char">ཬ</td><td class="htmlrepr">&amp;#xF6C;</td><td class="htmldisp">&#xF6C;</td>
+<td class="name">TIBETAN LETTER RRA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F6D</td><td class="char">཭</td><td class="htmlrepr">&amp;#xF6D;</td><td class="htmldisp">&#xF6D;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F6E</td><td class="char">཮</td><td class="htmlrepr">&amp;#xF6E;</td><td class="htmldisp">&#xF6E;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F6F</td><td class="char">཯</td><td class="htmlrepr">&amp;#xF6F;</td><td class="htmldisp">&#xF6F;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F70</td><td class="char">཰</td><td class="htmlrepr">&amp;#xF70;</td><td class="htmldisp">&#xF70;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F71</td><td class="char">ཱ</td><td class="htmlrepr">&amp;#xF71;</td><td class="htmldisp">&#xF71;</td>
+<td class="name">TIBETAN VOWEL SIGN AA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F72</td><td class="char">ི</td><td class="htmlrepr">&amp;#xF72;</td><td class="htmldisp">&#xF72;</td>
+<td class="name">TIBETAN VOWEL SIGN I</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F73</td><td class="char">ཱི</td><td class="htmlrepr">&amp;#xF73;</td><td class="htmldisp">&#xF73;</td>
+<td class="name">TIBETAN VOWEL SIGN II</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F74</td><td class="char">ུ</td><td class="htmlrepr">&amp;#xF74;</td><td class="htmldisp">&#xF74;</td>
+<td class="name">TIBETAN VOWEL SIGN U</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F75</td><td class="char">ཱུ</td><td class="htmlrepr">&amp;#xF75;</td><td class="htmldisp">&#xF75;</td>
+<td class="name">TIBETAN VOWEL SIGN UU</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F76</td><td class="char">ྲྀ</td><td class="htmlrepr">&amp;#xF76;</td><td class="htmldisp">&#xF76;</td>
+<td class="name">TIBETAN VOWEL SIGN VOCALIC R</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F77</td><td class="char">ཷ</td><td class="htmlrepr">&amp;#xF77;</td><td class="htmldisp">&#xF77;</td>
+<td class="name">TIBETAN VOWEL SIGN VOCALIC RR</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F78</td><td class="char">ླྀ</td><td class="htmlrepr">&amp;#xF78;</td><td class="htmldisp">&#xF78;</td>
+<td class="name">TIBETAN VOWEL SIGN VOCALIC L</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F79</td><td class="char">ཹ</td><td class="htmlrepr">&amp;#xF79;</td><td class="htmldisp">&#xF79;</td>
+<td class="name">TIBETAN VOWEL SIGN VOCALIC LL</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F7A</td><td class="char">ེ</td><td class="htmlrepr">&amp;#xF7A;</td><td class="htmldisp">&#xF7A;</td>
+<td class="name">TIBETAN VOWEL SIGN E</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F7B</td><td class="char">ཻ</td><td class="htmlrepr">&amp;#xF7B;</td><td class="htmldisp">&#xF7B;</td>
+<td class="name">TIBETAN VOWEL SIGN EE</td>
+<td class="name">TIBETAN VOWEL SIGN AI</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F7C</td><td class="char">ོ</td><td class="htmlrepr">&amp;#xF7C;</td><td class="htmldisp">&#xF7C;</td>
+<td class="name">TIBETAN VOWEL SIGN O</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F7D</td><td class="char">ཽ</td><td class="htmlrepr">&amp;#xF7D;</td><td class="htmldisp">&#xF7D;</td>
+<td class="name">TIBETAN VOWEL SIGN OO</td>
+<td class="name">TIBETAN VOWEL SIGN AU</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F7E</td><td class="char">ཾ</td><td class="htmlrepr">&amp;#xF7E;</td><td class="htmldisp">&#xF7E;</td>
+<td class="name">TIBETAN SIGN RJES SU NGA RO</td>
+<td class="name">TIBETAN ANUSVARA</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F7F</td><td class="char">ཿ</td><td class="htmlrepr">&amp;#xF7F;</td><td class="htmldisp">&#xF7F;</td>
+<td class="name">TIBETAN SIGN RNAM BCAD</td>
+<td class="name">TIBETAN VISARGA</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F80</td><td class="char">ྀ</td><td class="htmlrepr">&amp;#xF80;</td><td class="htmldisp">&#xF80;</td>
+<td class="name">TIBETAN VOWEL SIGN REVERSED I</td>
+<td class="name">TIBETAN VOWEL SIGN SHORT I</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F81</td><td class="char">ཱྀ</td><td class="htmlrepr">&amp;#xF81;</td><td class="htmldisp">&#xF81;</td>
+<td class="name">TIBETAN VOWEL SIGN REVERSED II</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F82</td><td class="char">ྂ</td><td class="htmlrepr">&amp;#xF82;</td><td class="htmldisp">&#xF82;</td>
+<td class="name">TIBETAN SIGN NYI ZLA NAA DA</td>
+<td class="name">TIBETAN CANDRABINDU WITH ORNAMENT</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F83</td><td class="char">ྃ</td><td class="htmlrepr">&amp;#xF83;</td><td class="htmldisp">&#xF83;</td>
+<td class="name">TIBETAN SIGN SNA LDAN</td>
+<td class="name">TIBETAN CANDRABINDU</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F84</td><td class="char">྄</td><td class="htmlrepr">&amp;#xF84;</td><td class="htmldisp">&#xF84;</td>
+<td class="name">TIBETAN MARK HALANTA</td>
+<td class="name">TIBETAN VIRAMA</td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F85</td><td class="char">྅</td><td class="htmlrepr">&amp;#xF85;</td><td class="htmldisp">&#xF85;</td>
+<td class="name">TIBETAN MARK PALUTA</td>
+<td class="name">TIBETAN CHUCHENYIGE</td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F86</td><td class="char">྆</td><td class="htmlrepr">&amp;#xF86;</td><td class="htmldisp">&#xF86;</td>
+<td class="name">TIBETAN SIGN LCI RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F87</td><td class="char">྇</td><td class="htmlrepr">&amp;#xF87;</td><td class="htmldisp">&#xF87;</td>
+<td class="name">TIBETAN SIGN YANG RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F88</td><td class="char">ྈ</td><td class="htmlrepr">&amp;#xF88;</td><td class="htmldisp">&#xF88;</td>
+<td class="name">TIBETAN SIGN LCE TSA CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F89</td><td class="char">ྉ</td><td class="htmlrepr">&amp;#xF89;</td><td class="htmldisp">&#xF89;</td>
+<td class="name">TIBETAN SIGN MCHU CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F8A</td><td class="char">ྊ</td><td class="htmlrepr">&amp;#xF8A;</td><td class="htmldisp">&#xF8A;</td>
+<td class="name">TIBETAN SIGN GRU CAN RGYINGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F8B</td><td class="char">ྋ</td><td class="htmlrepr">&amp;#xF8B;</td><td class="htmldisp">&#xF8B;</td>
+<td class="name">TIBETAN SIGN GRU MED RGYINGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F8C</td><td class="char">ྌ</td><td class="htmlrepr">&amp;#xF8C;</td><td class="htmldisp">&#xF8C;</td>
+<td class="name">TIBETAN SIGN INVERTED MCHU CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F8D</td><td class="char">ྍ</td><td class="htmlrepr">&amp;#xF8D;</td><td class="htmldisp">&#xF8D;</td>
+<td class="name">TIBETAN SUBJOINED SIGN LCE TSA CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F8E</td><td class="char">ྎ</td><td class="htmlrepr">&amp;#xF8E;</td><td class="htmldisp">&#xF8E;</td>
+<td class="name">TIBETAN SUBJOINED SIGN MCHU CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F8F</td><td class="char">ྏ</td><td class="htmlrepr">&amp;#xF8F;</td><td class="htmldisp">&#xF8F;</td>
+<td class="name">TIBETAN SUBJOINED SIGN INVERTED MCHU CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F90</td><td class="char">ྐ</td><td class="htmlrepr">&amp;#xF90;</td><td class="htmldisp">&#xF90;</td>
+<td class="name">TIBETAN SUBJOINED LETTER KA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F91</td><td class="char">ྑ</td><td class="htmlrepr">&amp;#xF91;</td><td class="htmldisp">&#xF91;</td>
+<td class="name">TIBETAN SUBJOINED LETTER KHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F92</td><td class="char">ྒ</td><td class="htmlrepr">&amp;#xF92;</td><td class="htmldisp">&#xF92;</td>
+<td class="name">TIBETAN SUBJOINED LETTER GA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F93</td><td class="char">ྒྷ</td><td class="htmlrepr">&amp;#xF93;</td><td class="htmldisp">&#xF93;</td>
+<td class="name">TIBETAN SUBJOINED LETTER GHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F94</td><td class="char">ྔ</td><td class="htmlrepr">&amp;#xF94;</td><td class="htmldisp">&#xF94;</td>
+<td class="name">TIBETAN SUBJOINED LETTER NGA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F95</td><td class="char">ྕ</td><td class="htmlrepr">&amp;#xF95;</td><td class="htmldisp">&#xF95;</td>
+<td class="name">TIBETAN SUBJOINED LETTER CA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F96</td><td class="char">ྖ</td><td class="htmlrepr">&amp;#xF96;</td><td class="htmldisp">&#xF96;</td>
+<td class="name">TIBETAN SUBJOINED LETTER CHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F97</td><td class="char">ྗ</td><td class="htmlrepr">&amp;#xF97;</td><td class="htmldisp">&#xF97;</td>
+<td class="name">TIBETAN SUBJOINED LETTER JA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F98</td><td class="char">྘</td><td class="htmlrepr">&amp;#xF98;</td><td class="htmldisp">&#xF98;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F99</td><td class="char">ྙ</td><td class="htmlrepr">&amp;#xF99;</td><td class="htmldisp">&#xF99;</td>
+<td class="name">TIBETAN SUBJOINED LETTER NYA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F9A</td><td class="char">ྚ</td><td class="htmlrepr">&amp;#xF9A;</td><td class="htmldisp">&#xF9A;</td>
+<td class="name">TIBETAN SUBJOINED LETTER TTA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F9B</td><td class="char">ྛ</td><td class="htmlrepr">&amp;#xF9B;</td><td class="htmldisp">&#xF9B;</td>
+<td class="name">TIBETAN SUBJOINED LETTER TTHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F9C</td><td class="char">ྜ</td><td class="htmlrepr">&amp;#xF9C;</td><td class="htmldisp">&#xF9C;</td>
+<td class="name">TIBETAN SUBJOINED LETTER DDA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F9D</td><td class="char">ྜྷ</td><td class="htmlrepr">&amp;#xF9D;</td><td class="htmldisp">&#xF9D;</td>
+<td class="name">TIBETAN SUBJOINED LETTER DDHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0F9E</td><td class="char">ྞ</td><td class="htmlrepr">&amp;#xF9E;</td><td class="htmldisp">&#xF9E;</td>
+<td class="name">TIBETAN SUBJOINED LETTER NNA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0F9F</td><td class="char">ྟ</td><td class="htmlrepr">&amp;#xF9F;</td><td class="htmldisp">&#xF9F;</td>
+<td class="name">TIBETAN SUBJOINED LETTER TA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FA0</td><td class="char">ྠ</td><td class="htmlrepr">&amp;#xFA0;</td><td class="htmldisp">&#xFA0;</td>
+<td class="name">TIBETAN SUBJOINED LETTER THA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FA1</td><td class="char">ྡ</td><td class="htmlrepr">&amp;#xFA1;</td><td class="htmldisp">&#xFA1;</td>
+<td class="name">TIBETAN SUBJOINED LETTER DA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FA2</td><td class="char">ྡྷ</td><td class="htmlrepr">&amp;#xFA2;</td><td class="htmldisp">&#xFA2;</td>
+<td class="name">TIBETAN SUBJOINED LETTER DHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FA3</td><td class="char">ྣ</td><td class="htmlrepr">&amp;#xFA3;</td><td class="htmldisp">&#xFA3;</td>
+<td class="name">TIBETAN SUBJOINED LETTER NA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FA4</td><td class="char">ྤ</td><td class="htmlrepr">&amp;#xFA4;</td><td class="htmldisp">&#xFA4;</td>
+<td class="name">TIBETAN SUBJOINED LETTER PA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FA5</td><td class="char">ྥ</td><td class="htmlrepr">&amp;#xFA5;</td><td class="htmldisp">&#xFA5;</td>
+<td class="name">TIBETAN SUBJOINED LETTER PHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FA6</td><td class="char">ྦ</td><td class="htmlrepr">&amp;#xFA6;</td><td class="htmldisp">&#xFA6;</td>
+<td class="name">TIBETAN SUBJOINED LETTER BA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FA7</td><td class="char">ྦྷ</td><td class="htmlrepr">&amp;#xFA7;</td><td class="htmldisp">&#xFA7;</td>
+<td class="name">TIBETAN SUBJOINED LETTER BHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FA8</td><td class="char">ྨ</td><td class="htmlrepr">&amp;#xFA8;</td><td class="htmldisp">&#xFA8;</td>
+<td class="name">TIBETAN SUBJOINED LETTER MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FA9</td><td class="char">ྩ</td><td class="htmlrepr">&amp;#xFA9;</td><td class="htmldisp">&#xFA9;</td>
+<td class="name">TIBETAN SUBJOINED LETTER TSA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FAA</td><td class="char">ྪ</td><td class="htmlrepr">&amp;#xFAA;</td><td class="htmldisp">&#xFAA;</td>
+<td class="name">TIBETAN SUBJOINED LETTER TSHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FAB</td><td class="char">ྫ</td><td class="htmlrepr">&amp;#xFAB;</td><td class="htmldisp">&#xFAB;</td>
+<td class="name">TIBETAN SUBJOINED LETTER DZA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FAC</td><td class="char">ྫྷ</td><td class="htmlrepr">&amp;#xFAC;</td><td class="htmldisp">&#xFAC;</td>
+<td class="name">TIBETAN SUBJOINED LETTER DZHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FAD</td><td class="char">ྭ</td><td class="htmlrepr">&amp;#xFAD;</td><td class="htmldisp">&#xFAD;</td>
+<td class="name">TIBETAN SUBJOINED LETTER WA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FAE</td><td class="char">ྮ</td><td class="htmlrepr">&amp;#xFAE;</td><td class="htmldisp">&#xFAE;</td>
+<td class="name">TIBETAN SUBJOINED LETTER ZHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FAF</td><td class="char">ྯ</td><td class="htmlrepr">&amp;#xFAF;</td><td class="htmldisp">&#xFAF;</td>
+<td class="name">TIBETAN SUBJOINED LETTER ZA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FB0</td><td class="char">ྰ</td><td class="htmlrepr">&amp;#xFB0;</td><td class="htmldisp">&#xFB0;</td>
+<td class="name">TIBETAN SUBJOINED LETTER -A</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FB1</td><td class="char">ྱ</td><td class="htmlrepr">&amp;#xFB1;</td><td class="htmldisp">&#xFB1;</td>
+<td class="name">TIBETAN SUBJOINED LETTER YA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FB2</td><td class="char">ྲ</td><td class="htmlrepr">&amp;#xFB2;</td><td class="htmldisp">&#xFB2;</td>
+<td class="name">TIBETAN SUBJOINED LETTER RA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FB3</td><td class="char">ླ</td><td class="htmlrepr">&amp;#xFB3;</td><td class="htmldisp">&#xFB3;</td>
+<td class="name">TIBETAN SUBJOINED LETTER LA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FB4</td><td class="char">ྴ</td><td class="htmlrepr">&amp;#xFB4;</td><td class="htmldisp">&#xFB4;</td>
+<td class="name">TIBETAN SUBJOINED LETTER SHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FB5</td><td class="char">ྵ</td><td class="htmlrepr">&amp;#xFB5;</td><td class="htmldisp">&#xFB5;</td>
+<td class="name">TIBETAN SUBJOINED LETTER SSA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FB6</td><td class="char">ྶ</td><td class="htmlrepr">&amp;#xFB6;</td><td class="htmldisp">&#xFB6;</td>
+<td class="name">TIBETAN SUBJOINED LETTER SA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FB7</td><td class="char">ྷ</td><td class="htmlrepr">&amp;#xFB7;</td><td class="htmldisp">&#xFB7;</td>
+<td class="name">TIBETAN SUBJOINED LETTER HA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FB8</td><td class="char">ྸ</td><td class="htmlrepr">&amp;#xFB8;</td><td class="htmldisp">&#xFB8;</td>
+<td class="name">TIBETAN SUBJOINED LETTER A</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FB9</td><td class="char">ྐྵ</td><td class="htmlrepr">&amp;#xFB9;</td><td class="htmldisp">&#xFB9;</td>
+<td class="name">TIBETAN SUBJOINED LETTER KSSA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FBA</td><td class="char">ྺ</td><td class="htmlrepr">&amp;#xFBA;</td><td class="htmldisp">&#xFBA;</td>
+<td class="name">TIBETAN SUBJOINED LETTER FIXED-FORM WA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FBB</td><td class="char">ྻ</td><td class="htmlrepr">&amp;#xFBB;</td><td class="htmldisp">&#xFBB;</td>
+<td class="name">TIBETAN SUBJOINED LETTER FIXED-FORM YA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FBC</td><td class="char">ྼ</td><td class="htmlrepr">&amp;#xFBC;</td><td class="htmldisp">&#xFBC;</td>
+<td class="name">TIBETAN SUBJOINED LETTER FIXED-FORM RA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FBD</td><td class="char">྽</td><td class="htmlrepr">&amp;#xFBD;</td><td class="htmldisp">&#xFBD;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FBE</td><td class="char">྾</td><td class="htmlrepr">&amp;#xFBE;</td><td class="htmldisp">&#xFBE;</td>
+<td class="name">TIBETAN KU RU KHA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FBF</td><td class="char">྿</td><td class="htmlrepr">&amp;#xFBF;</td><td class="htmldisp">&#xFBF;</td>
+<td class="name">TIBETAN KU RU KHA BZHI MIG CAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FC0</td><td class="char">࿀</td><td class="htmlrepr">&amp;#xFC0;</td><td class="htmldisp">&#xFC0;</td>
+<td class="name">TIBETAN CANTILLATION SIGN HEAVY BEAT</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FC1</td><td class="char">࿁</td><td class="htmlrepr">&amp;#xFC1;</td><td class="htmldisp">&#xFC1;</td>
+<td class="name">TIBETAN CANTILLATION SIGN LIGHT BEAT</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FC2</td><td class="char">࿂</td><td class="htmlrepr">&amp;#xFC2;</td><td class="htmldisp">&#xFC2;</td>
+<td class="name">TIBETAN CANTILLATION SIGN CANG TE-U</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FC3</td><td class="char">࿃</td><td class="htmlrepr">&amp;#xFC3;</td><td class="htmldisp">&#xFC3;</td>
+<td class="name">TIBETAN CANTILLATION SIGN SBUB -CHAL</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FC4</td><td class="char">࿄</td><td class="htmlrepr">&amp;#xFC4;</td><td class="htmldisp">&#xFC4;</td>
+<td class="name">TIBETAN SYMBOL DRIL BU</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FC5</td><td class="char">࿅</td><td class="htmlrepr">&amp;#xFC5;</td><td class="htmldisp">&#xFC5;</td>
+<td class="name">TIBETAN SYMBOL RDO RJE</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FC6</td><td class="char">࿆</td><td class="htmlrepr">&amp;#xFC6;</td><td class="htmldisp">&#xFC6;</td>
+<td class="name">TIBETAN SYMBOL PADMA GDAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FC7</td><td class="char">࿇</td><td class="htmlrepr">&amp;#xFC7;</td><td class="htmldisp">&#xFC7;</td>
+<td class="name">TIBETAN SYMBOL RDO RJE RGYA GRAM</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FC8</td><td class="char">࿈</td><td class="htmlrepr">&amp;#xFC8;</td><td class="htmldisp">&#xFC8;</td>
+<td class="name">TIBETAN SYMBOL PHUR PA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FC9</td><td class="char">࿉</td><td class="htmlrepr">&amp;#xFC9;</td><td class="htmldisp">&#xFC9;</td>
+<td class="name">TIBETAN SYMBOL NOR BU</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FCA</td><td class="char">࿊</td><td class="htmlrepr">&amp;#xFCA;</td><td class="htmldisp">&#xFCA;</td>
+<td class="name">TIBETAN SYMBOL NOR BU NYIS -KHYIL</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FCB</td><td class="char">࿋</td><td class="htmlrepr">&amp;#xFCB;</td><td class="htmldisp">&#xFCB;</td>
+<td class="name">TIBETAN SYMBOL NOR BU GSUM -KHYIL</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FCC</td><td class="char">࿌</td><td class="htmlrepr">&amp;#xFCC;</td><td class="htmldisp">&#xFCC;</td>
+<td class="name">TIBETAN SYMBOL NOR BU BZHI -KHYIL</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FCD</td><td class="char">࿍</td><td class="htmlrepr">&amp;#xFCD;</td><td class="htmldisp">&#xFCD;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FCE</td><td class="char">࿎</td><td class="htmlrepr">&amp;#xFCE;</td><td class="htmldisp">&#xFCE;</td>
+<td class="name">TIBETAN SIGN RDEL NAG RDEL DKAR</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FCF</td><td class="char">࿏</td><td class="htmlrepr">&amp;#xFCF;</td><td class="htmldisp">&#xFCF;</td>
+<td class="name">TIBETAN SIGN RDEL NAG GSUM</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FD0</td><td class="char">࿐</td><td class="htmlrepr">&amp;#xFD0;</td><td class="htmldisp">&#xFD0;</td>
+<td class="name">TIBETAN MARK BSKA- SHOG GI MGO RGYAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FD1</td><td class="char">࿑</td><td class="htmlrepr">&amp;#xFD1;</td><td class="htmldisp">&#xFD1;</td>
+<td class="name">TIBETAN MARK MNYAM YIG GI MGO RGYAN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FD2</td><td class="char">࿒</td><td class="htmlrepr">&amp;#xFD2;</td><td class="htmldisp">&#xFD2;</td>
+<td class="name">TIBETAN MARK NYIS TSHEG</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FD3</td><td class="char">࿓</td><td class="htmlrepr">&amp;#xFD3;</td><td class="htmldisp">&#xFD3;</td>
+<td class="name">TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FD4</td><td class="char">࿔</td><td class="htmlrepr">&amp;#xFD4;</td><td class="htmldisp">&#xFD4;</td>
+<td class="name">TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FD5</td><td class="char">࿕</td><td class="htmlrepr">&amp;#xFD5;</td><td class="htmldisp">&#xFD5;</td>
+<td class="name">RIGHT-FACING SVASTI SIGN</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FD6</td><td class="char">࿖</td><td class="htmlrepr">&amp;#xFD6;</td><td class="htmldisp">&#xFD6;</td>
+<td class="name">LEFT-FACING SVASTI SIGN</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FD7</td><td class="char">࿗</td><td class="htmlrepr">&amp;#xFD7;</td><td class="htmldisp">&#xFD7;</td>
+<td class="name">RIGHT-FACING SVASTI SIGN WITH DOTS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FD8</td><td class="char">࿘</td><td class="htmlrepr">&amp;#xFD8;</td><td class="htmldisp">&#xFD8;</td>
+<td class="name">LEFT-FACING SVASTI SIGN WITH DOTS</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FD9</td><td class="char">࿙</td><td class="htmlrepr">&amp;#xFD9;</td><td class="htmldisp">&#xFD9;</td>
+<td class="name">TIBETAN MARK LEADING MCHAN RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FDA</td><td class="char">࿚</td><td class="htmlrepr">&amp;#xFDA;</td><td class="htmldisp">&#xFDA;</td>
+<td class="name">TIBETAN MARK TRAILING MCHAN RTAGS</td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FDB</td><td class="char">࿛</td><td class="htmlrepr">&amp;#xFDB;</td><td class="htmldisp">&#xFDB;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FDC</td><td class="char">࿜</td><td class="htmlrepr">&amp;#xFDC;</td><td class="htmldisp">&#xFDC;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FDD</td><td class="char">࿝</td><td class="htmlrepr">&amp;#xFDD;</td><td class="htmldisp">&#xFDD;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FDE</td><td class="char">࿞</td><td class="htmlrepr">&amp;#xFDE;</td><td class="htmldisp">&#xFDE;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FDF</td><td class="char">࿟</td><td class="htmlrepr">&amp;#xFDF;</td><td class="htmldisp">&#xFDF;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FE0</td><td class="char">࿠</td><td class="htmlrepr">&amp;#xFE0;</td><td class="htmldisp">&#xFE0;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FE1</td><td class="char">࿡</td><td class="htmlrepr">&amp;#xFE1;</td><td class="htmldisp">&#xFE1;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FE2</td><td class="char">࿢</td><td class="htmlrepr">&amp;#xFE2;</td><td class="htmldisp">&#xFE2;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FE3</td><td class="char">࿣</td><td class="htmlrepr">&amp;#xFE3;</td><td class="htmldisp">&#xFE3;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FE4</td><td class="char">࿤</td><td class="htmlrepr">&amp;#xFE4;</td><td class="htmldisp">&#xFE4;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FE5</td><td class="char">࿥</td><td class="htmlrepr">&amp;#xFE5;</td><td class="htmldisp">&#xFE5;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FE6</td><td class="char">࿦</td><td class="htmlrepr">&amp;#xFE6;</td><td class="htmldisp">&#xFE6;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FE7</td><td class="char">࿧</td><td class="htmlrepr">&amp;#xFE7;</td><td class="htmldisp">&#xFE7;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FE8</td><td class="char">࿨</td><td class="htmlrepr">&amp;#xFE8;</td><td class="htmldisp">&#xFE8;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FE9</td><td class="char">࿩</td><td class="htmlrepr">&amp;#xFE9;</td><td class="htmldisp">&#xFE9;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FEA</td><td class="char">࿪</td><td class="htmlrepr">&amp;#xFEA;</td><td class="htmldisp">&#xFEA;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FEB</td><td class="char">࿫</td><td class="htmlrepr">&amp;#xFEB;</td><td class="htmldisp">&#xFEB;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FEC</td><td class="char">࿬</td><td class="htmlrepr">&amp;#xFEC;</td><td class="htmldisp">&#xFEC;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FED</td><td class="char">࿭</td><td class="htmlrepr">&amp;#xFED;</td><td class="htmldisp">&#xFED;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FEE</td><td class="char">࿮</td><td class="htmlrepr">&amp;#xFEE;</td><td class="htmldisp">&#xFEE;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FEF</td><td class="char">࿯</td><td class="htmlrepr">&amp;#xFEF;</td><td class="htmldisp">&#xFEF;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FF0</td><td class="char">࿰</td><td class="htmlrepr">&amp;#xFF0;</td><td class="htmldisp">&#xFF0;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FF1</td><td class="char">࿱</td><td class="htmlrepr">&amp;#xFF1;</td><td class="htmldisp">&#xFF1;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FF2</td><td class="char">࿲</td><td class="htmlrepr">&amp;#xFF2;</td><td class="htmldisp">&#xFF2;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FF3</td><td class="char">࿳</td><td class="htmlrepr">&amp;#xFF3;</td><td class="htmldisp">&#xFF3;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FF4</td><td class="char">࿴</td><td class="htmlrepr">&amp;#xFF4;</td><td class="htmldisp">&#xFF4;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FF5</td><td class="char">࿵</td><td class="htmlrepr">&amp;#xFF5;</td><td class="htmldisp">&#xFF5;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FF6</td><td class="char">࿶</td><td class="htmlrepr">&amp;#xFF6;</td><td class="htmldisp">&#xFF6;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FF7</td><td class="char">࿷</td><td class="htmlrepr">&amp;#xFF7;</td><td class="htmldisp">&#xFF7;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FF8</td><td class="char">࿸</td><td class="htmlrepr">&amp;#xFF8;</td><td class="htmldisp">&#xFF8;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FF9</td><td class="char">࿹</td><td class="htmlrepr">&amp;#xFF9;</td><td class="htmldisp">&#xFF9;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FFA</td><td class="char">࿺</td><td class="htmlrepr">&amp;#xFFA;</td><td class="htmldisp">&#xFFA;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FFB</td><td class="char">࿻</td><td class="htmlrepr">&amp;#xFFB;</td><td class="htmldisp">&#xFFB;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FFC</td><td class="char">࿼</td><td class="htmlrepr">&amp;#xFFC;</td><td class="htmldisp">&#xFFC;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FFD</td><td class="char">࿽</td><td class="htmlrepr">&amp;#xFFD;</td><td class="htmldisp">&#xFFD;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cev">
+<td class="cpt">U+0FFE</td><td class="char">࿾</td><td class="htmlrepr">&amp;#xFFE;</td><td class="htmldisp">&#xFFE;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+<tr class="cod">
+<td class="cpt">U+0FFF</td><td class="char">࿿</td><td class="htmlrepr">&amp;#xFFF;</td><td class="htmldisp">&#xFFF;</td>
+<td class="name"></td>
+<td class="name"></td>
+</tr>
+</ALPHABET>
+

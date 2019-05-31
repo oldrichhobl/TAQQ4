@@ -1,27 +1,45 @@
 <ion-header>
   <ion-toolbar>
     <ion-buttons slot="start">
-      <ion-menu-button></ion-menu-button>
+     <ion-menu-toggle>
+       <ion-button>
+         <ion-icon slot="icon-only" name="menu"></ion-icon>
+       </ion-button>
+     </ion-menu-toggle>
+
     </ion-buttons>
     <ion-title>
-      List
+      List:  {{ global.version }}
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content>
-  <ion-list>
-    <ion-item *ngFor="let item of items">
-      <ion-icon [name]="item.icon" slot="start"></ion-icon>
-      {{item.title}}
-      <div class="item-note" slot="end">
+<ion-content padding>
+<ion-list>
+    <ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
+     
+      <!-- <ion-item slot="start" routerDirection="forward" [href]="'/page2/998'">  -->
+      <ion-item slot="start">
+         {{item.title}}
+      </ion-item>
+      <ion-label class="znakC" item-right>
         {{item.note}}
-      </div>
+      </ion-label>
     </ion-item>
-  </ion-list>
-  <!--
-    <div *ngIf="selectedItem" padding>
-      You navigated here from <b>{{selectedItem.title }}</b>
-    </div>
-  -->
+</ion-list>
+<!-- 
+  <ion-button href="/about" routerDirection="forward">About </ion-button>
+   <ion-button href="/about" routerDirection="forward">About2 </ion-button>
+	
+  <p>Loaded: {{ hermes.loaded }}</p>
+  <p>List: <a [href]="'/list'">GO</a> tohle nefunguje: cannot read property length of undefined</p>
+  <p>Spravne: <ion-button href="/list" routerDirection="forward">GO2 </ion-button> </p>
+
+   <button ion-button full (click)="hermes.loadXML()">Nacti XML</button>
+   <button ion-button full (click)="hermes.selectNode('//RECS/REC')">SelectNode</button>
+
+   <button ion-button full (click)="openLocalSpz()">Seznam SPZ</button>
+   <button ion-button full (click)="hermes.loadXSL()">loadXSL</button>
+   <button ion-button full (click)="hermes.showData('WAPKA')">ShowData</button>
+   -->
 </ion-content>
