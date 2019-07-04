@@ -8,7 +8,7 @@ import { Storage } from '@ionic/storage';
 */
 @Injectable()
 export class GlobalProvider {
-  public version = '2019.01.11.DD';
+  public version = '2019.07.03.AA';
   public server: string;
   public name: string;
   public password: string;

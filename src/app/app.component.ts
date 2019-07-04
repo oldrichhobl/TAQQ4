@@ -38,7 +38,7 @@ export class AppComponent {
     {
       title: 'Test AUDIO',
       url: '/page3',
-      icon: 'speaker'
+      icon: 'volume-high'
     },
     {
       title: 'Kvíz',
